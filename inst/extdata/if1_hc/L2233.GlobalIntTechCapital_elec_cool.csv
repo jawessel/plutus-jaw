@@ -1,0 +1,1455 @@
+# Capital costs converted from 2005USD
+# Fixed input assumptions for capacity factor and FCR
+region,sector.name,subsector.name,technology,year,input.capital,capital.overnight,fixed.charge.rate
+USA,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.19
+USA,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.19
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.249201562
+Africa_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.249201562
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.24968354
+Africa_Northern,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.24968354
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.262811009
+Africa_Southern,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.262811009
+Africa_Western,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.26181334
+Africa_Western,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.26181334
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.193868533
+Australia_NZ,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.193868533
+Brazil,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.247753701
+Brazil,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.247753701
+Canada,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.198628345
+Canada,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.198628345
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.238894466
+Central America and Caribbean,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.238894466
+Central Asia,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.205117563
+Central Asia,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.205117563
+China,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.203177919
+China,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.203177919
+EU-12,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.207211504
+EU-12,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.207211504
+EU-15,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.200873844
+EU-15,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.200873844
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.216334134
+Europe_Eastern,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.216334134
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.206071826
+Europe_Non_EU,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.206071826
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.200836667
+European Free Trade Association,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.200836667
+India,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.217418954
+India,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.217418954
+Indonesia,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.220850296
+Indonesia,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.220850296
+Japan,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.202053103
+Japan,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.202053103
+Mexico,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.214411769
+Mexico,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.214411769
+Middle East,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.221576282
+Middle East,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.221576282
+Pakistan,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.242621969
+Pakistan,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.242621969
+Russia,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.201709612
+Russia,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.201709612
+South Africa,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.227017601
+South Africa,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.227017601
+South America_Northern,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.349268036
+South America_Northern,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.349268036
+South America_Southern,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.227104361
+South America_Southern,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.227104361
+South Asia,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.278610415
+South Asia,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.278610415
+South Korea,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.189858034
+South Korea,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.189858034
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.210128745
+Southeast Asia,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.210128745
+Taiwan,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.19600539
+Taiwan,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.19600539
+Argentina,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.248092563
+Argentina,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.248092563
+Colombia,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.219717152
+Colombia,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.219717152
+Uruguay,elec_CSP,CSP,CSP (recirculating),1975,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),1990,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2005,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2010,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2015,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2020,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2025,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2030,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2035,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2040,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2045,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2050,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2055,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2060,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2065,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2070,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2075,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2080,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2085,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2090,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2095,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (recirculating),2100,cooling system,10,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),1975,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),1990,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2005,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2010,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2015,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2020,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2025,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2030,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2035,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2040,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2045,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2050,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2055,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2060,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2065,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2070,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2075,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2080,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2085,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2090,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2095,cooling system,62,0.241050368
+Uruguay,elec_CSP,CSP,CSP (dry_hybrid),2100,cooling system,62,0.241050368

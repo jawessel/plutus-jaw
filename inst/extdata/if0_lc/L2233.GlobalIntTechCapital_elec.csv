@@ -1,0 +1,2906 @@
+# Composed directly from input data
+region,sector.name,subsector.name,technology,year,input.capital,capital.overnight,fixed.charge.rate
+USA,electricity,wind,wind,1975,capital,451,0.13
+USA,electricity,wind,wind,1990,capital,451,0.13
+USA,electricity,wind,wind,2005,capital,451,0.13
+USA,electricity,wind,wind,2010,capital,451,0.13
+USA,electricity,wind,wind,2015,capital,451,0.13
+USA,electricity,wind,wind,2020,capital,387,0.13
+USA,electricity,wind,wind,2025,capital,341,0.13
+USA,electricity,wind,wind,2030,capital,306,0.13
+USA,electricity,wind,wind,2035,capital,281,0.13
+USA,electricity,wind,wind,2040,capital,263,0.13
+USA,electricity,wind,wind,2045,capital,249,0.13
+USA,electricity,wind,wind,2050,capital,239,0.13
+USA,electricity,wind,wind,2055,capital,232,0.13
+USA,electricity,wind,wind,2060,capital,227,0.13
+USA,electricity,wind,wind,2065,capital,223,0.13
+USA,electricity,wind,wind,2070,capital,220,0.13
+USA,electricity,wind,wind,2075,capital,218,0.13
+USA,electricity,wind,wind,2080,capital,216,0.13
+USA,electricity,wind,wind,2085,capital,215,0.13
+USA,electricity,wind,wind,2090,capital,214,0.13
+USA,electricity,wind,wind,2095,capital,214,0.13
+USA,electricity,wind,wind,2100,capital,213,0.13
+USA,electricity,wind,wind_offshore,1975,capital,1118,0.13
+USA,electricity,wind,wind_offshore,1990,capital,1118,0.13
+USA,electricity,wind,wind_offshore,2005,capital,1118,0.13
+USA,electricity,wind,wind_offshore,2010,capital,1118,0.13
+USA,electricity,wind,wind_offshore,2015,capital,1118,0.13
+USA,electricity,wind,wind_offshore,2020,capital,886,0.13
+USA,electricity,wind,wind_offshore,2025,capital,722,0.13
+USA,electricity,wind,wind_offshore,2030,capital,606,0.13
+USA,electricity,wind,wind_offshore,2035,capital,524,0.13
+USA,electricity,wind,wind_offshore,2040,capital,466,0.13
+USA,electricity,wind,wind_offshore,2045,capital,425,0.13
+USA,electricity,wind,wind_offshore,2050,capital,396,0.13
+USA,electricity,wind,wind_offshore,2055,capital,376,0.13
+USA,electricity,wind,wind_offshore,2060,capital,361,0.13
+USA,electricity,wind,wind_offshore,2065,capital,351,0.13
+USA,electricity,wind,wind_offshore,2070,capital,343,0.13
+USA,electricity,wind,wind_offshore,2075,capital,338,0.13
+USA,electricity,wind,wind_offshore,2080,capital,335,0.13
+USA,electricity,wind,wind_offshore,2085,capital,332,0.13
+USA,electricity,wind,wind_offshore,2090,capital,330,0.13
+USA,electricity,wind,wind_offshore,2095,capital,329,0.13
+USA,electricity,wind,wind_offshore,2100,capital,328,0.13
+USA,electricity,solar,PV,1975,capital,667,0.13
+USA,electricity,solar,PV,1990,capital,667,0.13
+USA,electricity,solar,PV,2005,capital,667,0.13
+USA,electricity,solar,PV,2010,capital,667,0.13
+USA,electricity,solar,PV,2015,capital,667,0.13
+USA,electricity,solar,PV,2020,capital,402,0.13
+USA,electricity,solar,PV,2025,capital,263,0.13
+USA,electricity,solar,PV,2030,capital,189,0.13
+USA,electricity,solar,PV,2035,capital,150,0.13
+USA,electricity,solar,PV,2040,capital,130,0.13
+USA,electricity,solar,PV,2045,capital,119,0.13
+USA,electricity,solar,PV,2050,capital,113,0.13
+USA,electricity,solar,PV,2055,capital,110,0.13
+USA,electricity,solar,PV,2060,capital,108,0.13
+USA,electricity,solar,PV,2065,capital,108,0.13
+USA,electricity,solar,PV,2070,capital,107,0.13
+USA,electricity,solar,PV,2075,capital,107,0.13
+USA,electricity,solar,PV,2080,capital,107,0.13
+USA,electricity,solar,PV,2085,capital,107,0.13
+USA,electricity,solar,PV,2090,capital,107,0.13
+USA,electricity,solar,PV,2095,capital,107,0.13
+USA,electricity,solar,PV,2100,capital,107,0.13
+Africa_Eastern,electricity,wind,wind,1975,capital,451,0.13
+Africa_Eastern,electricity,wind,wind,1990,capital,451,0.13
+Africa_Eastern,electricity,wind,wind,2005,capital,451,0.13
+Africa_Eastern,electricity,wind,wind,2010,capital,451,0.13
+Africa_Eastern,electricity,wind,wind,2015,capital,451,0.13
+Africa_Eastern,electricity,wind,wind,2020,capital,387,0.13
+Africa_Eastern,electricity,wind,wind,2025,capital,341,0.13
+Africa_Eastern,electricity,wind,wind,2030,capital,306,0.13
+Africa_Eastern,electricity,wind,wind,2035,capital,281,0.13
+Africa_Eastern,electricity,wind,wind,2040,capital,263,0.13
+Africa_Eastern,electricity,wind,wind,2045,capital,249,0.13
+Africa_Eastern,electricity,wind,wind,2050,capital,239,0.13
+Africa_Eastern,electricity,wind,wind,2055,capital,232,0.13
+Africa_Eastern,electricity,wind,wind,2060,capital,227,0.13
+Africa_Eastern,electricity,wind,wind,2065,capital,223,0.13
+Africa_Eastern,electricity,wind,wind,2070,capital,220,0.13
+Africa_Eastern,electricity,wind,wind,2075,capital,218,0.13
+Africa_Eastern,electricity,wind,wind,2080,capital,216,0.13
+Africa_Eastern,electricity,wind,wind,2085,capital,215,0.13
+Africa_Eastern,electricity,wind,wind,2090,capital,214,0.13
+Africa_Eastern,electricity,wind,wind,2095,capital,214,0.13
+Africa_Eastern,electricity,wind,wind,2100,capital,213,0.13
+Africa_Eastern,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Africa_Eastern,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2020,capital,886,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2025,capital,722,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2030,capital,606,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2035,capital,524,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2040,capital,466,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2045,capital,425,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2050,capital,396,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2055,capital,376,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2060,capital,361,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2065,capital,351,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2070,capital,343,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2075,capital,338,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2080,capital,335,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2085,capital,332,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2090,capital,330,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2095,capital,329,0.13
+Africa_Eastern,electricity,wind,wind_offshore,2100,capital,328,0.13
+Africa_Eastern,electricity,solar,PV,1975,capital,667,0.13
+Africa_Eastern,electricity,solar,PV,1990,capital,667,0.13
+Africa_Eastern,electricity,solar,PV,2005,capital,667,0.13
+Africa_Eastern,electricity,solar,PV,2010,capital,667,0.13
+Africa_Eastern,electricity,solar,PV,2015,capital,667,0.13
+Africa_Eastern,electricity,solar,PV,2020,capital,402,0.13
+Africa_Eastern,electricity,solar,PV,2025,capital,263,0.13
+Africa_Eastern,electricity,solar,PV,2030,capital,189,0.13
+Africa_Eastern,electricity,solar,PV,2035,capital,150,0.13
+Africa_Eastern,electricity,solar,PV,2040,capital,130,0.13
+Africa_Eastern,electricity,solar,PV,2045,capital,119,0.13
+Africa_Eastern,electricity,solar,PV,2050,capital,113,0.13
+Africa_Eastern,electricity,solar,PV,2055,capital,110,0.13
+Africa_Eastern,electricity,solar,PV,2060,capital,108,0.13
+Africa_Eastern,electricity,solar,PV,2065,capital,108,0.13
+Africa_Eastern,electricity,solar,PV,2070,capital,107,0.13
+Africa_Eastern,electricity,solar,PV,2075,capital,107,0.13
+Africa_Eastern,electricity,solar,PV,2080,capital,107,0.13
+Africa_Eastern,electricity,solar,PV,2085,capital,107,0.13
+Africa_Eastern,electricity,solar,PV,2090,capital,107,0.13
+Africa_Eastern,electricity,solar,PV,2095,capital,107,0.13
+Africa_Eastern,electricity,solar,PV,2100,capital,107,0.13
+Africa_Northern,electricity,wind,wind,1975,capital,451,0.13
+Africa_Northern,electricity,wind,wind,1990,capital,451,0.13
+Africa_Northern,electricity,wind,wind,2005,capital,451,0.13
+Africa_Northern,electricity,wind,wind,2010,capital,451,0.13
+Africa_Northern,electricity,wind,wind,2015,capital,451,0.13
+Africa_Northern,electricity,wind,wind,2020,capital,387,0.13
+Africa_Northern,electricity,wind,wind,2025,capital,341,0.13
+Africa_Northern,electricity,wind,wind,2030,capital,306,0.13
+Africa_Northern,electricity,wind,wind,2035,capital,281,0.13
+Africa_Northern,electricity,wind,wind,2040,capital,263,0.13
+Africa_Northern,electricity,wind,wind,2045,capital,249,0.13
+Africa_Northern,electricity,wind,wind,2050,capital,239,0.13
+Africa_Northern,electricity,wind,wind,2055,capital,232,0.13
+Africa_Northern,electricity,wind,wind,2060,capital,227,0.13
+Africa_Northern,electricity,wind,wind,2065,capital,223,0.13
+Africa_Northern,electricity,wind,wind,2070,capital,220,0.13
+Africa_Northern,electricity,wind,wind,2075,capital,218,0.13
+Africa_Northern,electricity,wind,wind,2080,capital,216,0.13
+Africa_Northern,electricity,wind,wind,2085,capital,215,0.13
+Africa_Northern,electricity,wind,wind,2090,capital,214,0.13
+Africa_Northern,electricity,wind,wind,2095,capital,214,0.13
+Africa_Northern,electricity,wind,wind,2100,capital,213,0.13
+Africa_Northern,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Africa_Northern,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Africa_Northern,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Africa_Northern,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Africa_Northern,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Africa_Northern,electricity,wind,wind_offshore,2020,capital,886,0.13
+Africa_Northern,electricity,wind,wind_offshore,2025,capital,722,0.13
+Africa_Northern,electricity,wind,wind_offshore,2030,capital,606,0.13
+Africa_Northern,electricity,wind,wind_offshore,2035,capital,524,0.13
+Africa_Northern,electricity,wind,wind_offshore,2040,capital,466,0.13
+Africa_Northern,electricity,wind,wind_offshore,2045,capital,425,0.13
+Africa_Northern,electricity,wind,wind_offshore,2050,capital,396,0.13
+Africa_Northern,electricity,wind,wind_offshore,2055,capital,376,0.13
+Africa_Northern,electricity,wind,wind_offshore,2060,capital,361,0.13
+Africa_Northern,electricity,wind,wind_offshore,2065,capital,351,0.13
+Africa_Northern,electricity,wind,wind_offshore,2070,capital,343,0.13
+Africa_Northern,electricity,wind,wind_offshore,2075,capital,338,0.13
+Africa_Northern,electricity,wind,wind_offshore,2080,capital,335,0.13
+Africa_Northern,electricity,wind,wind_offshore,2085,capital,332,0.13
+Africa_Northern,electricity,wind,wind_offshore,2090,capital,330,0.13
+Africa_Northern,electricity,wind,wind_offshore,2095,capital,329,0.13
+Africa_Northern,electricity,wind,wind_offshore,2100,capital,328,0.13
+Africa_Northern,electricity,solar,PV,1975,capital,667,0.13
+Africa_Northern,electricity,solar,PV,1990,capital,667,0.13
+Africa_Northern,electricity,solar,PV,2005,capital,667,0.13
+Africa_Northern,electricity,solar,PV,2010,capital,667,0.13
+Africa_Northern,electricity,solar,PV,2015,capital,667,0.13
+Africa_Northern,electricity,solar,PV,2020,capital,402,0.13
+Africa_Northern,electricity,solar,PV,2025,capital,263,0.13
+Africa_Northern,electricity,solar,PV,2030,capital,189,0.13
+Africa_Northern,electricity,solar,PV,2035,capital,150,0.13
+Africa_Northern,electricity,solar,PV,2040,capital,130,0.13
+Africa_Northern,electricity,solar,PV,2045,capital,119,0.13
+Africa_Northern,electricity,solar,PV,2050,capital,113,0.13
+Africa_Northern,electricity,solar,PV,2055,capital,110,0.13
+Africa_Northern,electricity,solar,PV,2060,capital,108,0.13
+Africa_Northern,electricity,solar,PV,2065,capital,108,0.13
+Africa_Northern,electricity,solar,PV,2070,capital,107,0.13
+Africa_Northern,electricity,solar,PV,2075,capital,107,0.13
+Africa_Northern,electricity,solar,PV,2080,capital,107,0.13
+Africa_Northern,electricity,solar,PV,2085,capital,107,0.13
+Africa_Northern,electricity,solar,PV,2090,capital,107,0.13
+Africa_Northern,electricity,solar,PV,2095,capital,107,0.13
+Africa_Northern,electricity,solar,PV,2100,capital,107,0.13
+Africa_Southern,electricity,wind,wind,1975,capital,451,0.13
+Africa_Southern,electricity,wind,wind,1990,capital,451,0.13
+Africa_Southern,electricity,wind,wind,2005,capital,451,0.13
+Africa_Southern,electricity,wind,wind,2010,capital,451,0.13
+Africa_Southern,electricity,wind,wind,2015,capital,451,0.13
+Africa_Southern,electricity,wind,wind,2020,capital,387,0.13
+Africa_Southern,electricity,wind,wind,2025,capital,341,0.13
+Africa_Southern,electricity,wind,wind,2030,capital,306,0.13
+Africa_Southern,electricity,wind,wind,2035,capital,281,0.13
+Africa_Southern,electricity,wind,wind,2040,capital,263,0.13
+Africa_Southern,electricity,wind,wind,2045,capital,249,0.13
+Africa_Southern,electricity,wind,wind,2050,capital,239,0.13
+Africa_Southern,electricity,wind,wind,2055,capital,232,0.13
+Africa_Southern,electricity,wind,wind,2060,capital,227,0.13
+Africa_Southern,electricity,wind,wind,2065,capital,223,0.13
+Africa_Southern,electricity,wind,wind,2070,capital,220,0.13
+Africa_Southern,electricity,wind,wind,2075,capital,218,0.13
+Africa_Southern,electricity,wind,wind,2080,capital,216,0.13
+Africa_Southern,electricity,wind,wind,2085,capital,215,0.13
+Africa_Southern,electricity,wind,wind,2090,capital,214,0.13
+Africa_Southern,electricity,wind,wind,2095,capital,214,0.13
+Africa_Southern,electricity,wind,wind,2100,capital,213,0.13
+Africa_Southern,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Africa_Southern,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Africa_Southern,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Africa_Southern,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Africa_Southern,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Africa_Southern,electricity,wind,wind_offshore,2020,capital,886,0.13
+Africa_Southern,electricity,wind,wind_offshore,2025,capital,722,0.13
+Africa_Southern,electricity,wind,wind_offshore,2030,capital,606,0.13
+Africa_Southern,electricity,wind,wind_offshore,2035,capital,524,0.13
+Africa_Southern,electricity,wind,wind_offshore,2040,capital,466,0.13
+Africa_Southern,electricity,wind,wind_offshore,2045,capital,425,0.13
+Africa_Southern,electricity,wind,wind_offshore,2050,capital,396,0.13
+Africa_Southern,electricity,wind,wind_offshore,2055,capital,376,0.13
+Africa_Southern,electricity,wind,wind_offshore,2060,capital,361,0.13
+Africa_Southern,electricity,wind,wind_offshore,2065,capital,351,0.13
+Africa_Southern,electricity,wind,wind_offshore,2070,capital,343,0.13
+Africa_Southern,electricity,wind,wind_offshore,2075,capital,338,0.13
+Africa_Southern,electricity,wind,wind_offshore,2080,capital,335,0.13
+Africa_Southern,electricity,wind,wind_offshore,2085,capital,332,0.13
+Africa_Southern,electricity,wind,wind_offshore,2090,capital,330,0.13
+Africa_Southern,electricity,wind,wind_offshore,2095,capital,329,0.13
+Africa_Southern,electricity,wind,wind_offshore,2100,capital,328,0.13
+Africa_Southern,electricity,solar,PV,1975,capital,667,0.13
+Africa_Southern,electricity,solar,PV,1990,capital,667,0.13
+Africa_Southern,electricity,solar,PV,2005,capital,667,0.13
+Africa_Southern,electricity,solar,PV,2010,capital,667,0.13
+Africa_Southern,electricity,solar,PV,2015,capital,667,0.13
+Africa_Southern,electricity,solar,PV,2020,capital,402,0.13
+Africa_Southern,electricity,solar,PV,2025,capital,263,0.13
+Africa_Southern,electricity,solar,PV,2030,capital,189,0.13
+Africa_Southern,electricity,solar,PV,2035,capital,150,0.13
+Africa_Southern,electricity,solar,PV,2040,capital,130,0.13
+Africa_Southern,electricity,solar,PV,2045,capital,119,0.13
+Africa_Southern,electricity,solar,PV,2050,capital,113,0.13
+Africa_Southern,electricity,solar,PV,2055,capital,110,0.13
+Africa_Southern,electricity,solar,PV,2060,capital,108,0.13
+Africa_Southern,electricity,solar,PV,2065,capital,108,0.13
+Africa_Southern,electricity,solar,PV,2070,capital,107,0.13
+Africa_Southern,electricity,solar,PV,2075,capital,107,0.13
+Africa_Southern,electricity,solar,PV,2080,capital,107,0.13
+Africa_Southern,electricity,solar,PV,2085,capital,107,0.13
+Africa_Southern,electricity,solar,PV,2090,capital,107,0.13
+Africa_Southern,electricity,solar,PV,2095,capital,107,0.13
+Africa_Southern,electricity,solar,PV,2100,capital,107,0.13
+Africa_Western,electricity,wind,wind,1975,capital,451,0.13
+Africa_Western,electricity,wind,wind,1990,capital,451,0.13
+Africa_Western,electricity,wind,wind,2005,capital,451,0.13
+Africa_Western,electricity,wind,wind,2010,capital,451,0.13
+Africa_Western,electricity,wind,wind,2015,capital,451,0.13
+Africa_Western,electricity,wind,wind,2020,capital,387,0.13
+Africa_Western,electricity,wind,wind,2025,capital,341,0.13
+Africa_Western,electricity,wind,wind,2030,capital,306,0.13
+Africa_Western,electricity,wind,wind,2035,capital,281,0.13
+Africa_Western,electricity,wind,wind,2040,capital,263,0.13
+Africa_Western,electricity,wind,wind,2045,capital,249,0.13
+Africa_Western,electricity,wind,wind,2050,capital,239,0.13
+Africa_Western,electricity,wind,wind,2055,capital,232,0.13
+Africa_Western,electricity,wind,wind,2060,capital,227,0.13
+Africa_Western,electricity,wind,wind,2065,capital,223,0.13
+Africa_Western,electricity,wind,wind,2070,capital,220,0.13
+Africa_Western,electricity,wind,wind,2075,capital,218,0.13
+Africa_Western,electricity,wind,wind,2080,capital,216,0.13
+Africa_Western,electricity,wind,wind,2085,capital,215,0.13
+Africa_Western,electricity,wind,wind,2090,capital,214,0.13
+Africa_Western,electricity,wind,wind,2095,capital,214,0.13
+Africa_Western,electricity,wind,wind,2100,capital,213,0.13
+Africa_Western,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Africa_Western,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Africa_Western,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Africa_Western,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Africa_Western,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Africa_Western,electricity,wind,wind_offshore,2020,capital,886,0.13
+Africa_Western,electricity,wind,wind_offshore,2025,capital,722,0.13
+Africa_Western,electricity,wind,wind_offshore,2030,capital,606,0.13
+Africa_Western,electricity,wind,wind_offshore,2035,capital,524,0.13
+Africa_Western,electricity,wind,wind_offshore,2040,capital,466,0.13
+Africa_Western,electricity,wind,wind_offshore,2045,capital,425,0.13
+Africa_Western,electricity,wind,wind_offshore,2050,capital,396,0.13
+Africa_Western,electricity,wind,wind_offshore,2055,capital,376,0.13
+Africa_Western,electricity,wind,wind_offshore,2060,capital,361,0.13
+Africa_Western,electricity,wind,wind_offshore,2065,capital,351,0.13
+Africa_Western,electricity,wind,wind_offshore,2070,capital,343,0.13
+Africa_Western,electricity,wind,wind_offshore,2075,capital,338,0.13
+Africa_Western,electricity,wind,wind_offshore,2080,capital,335,0.13
+Africa_Western,electricity,wind,wind_offshore,2085,capital,332,0.13
+Africa_Western,electricity,wind,wind_offshore,2090,capital,330,0.13
+Africa_Western,electricity,wind,wind_offshore,2095,capital,329,0.13
+Africa_Western,electricity,wind,wind_offshore,2100,capital,328,0.13
+Africa_Western,electricity,solar,PV,1975,capital,667,0.13
+Africa_Western,electricity,solar,PV,1990,capital,667,0.13
+Africa_Western,electricity,solar,PV,2005,capital,667,0.13
+Africa_Western,electricity,solar,PV,2010,capital,667,0.13
+Africa_Western,electricity,solar,PV,2015,capital,667,0.13
+Africa_Western,electricity,solar,PV,2020,capital,402,0.13
+Africa_Western,electricity,solar,PV,2025,capital,263,0.13
+Africa_Western,electricity,solar,PV,2030,capital,189,0.13
+Africa_Western,electricity,solar,PV,2035,capital,150,0.13
+Africa_Western,electricity,solar,PV,2040,capital,130,0.13
+Africa_Western,electricity,solar,PV,2045,capital,119,0.13
+Africa_Western,electricity,solar,PV,2050,capital,113,0.13
+Africa_Western,electricity,solar,PV,2055,capital,110,0.13
+Africa_Western,electricity,solar,PV,2060,capital,108,0.13
+Africa_Western,electricity,solar,PV,2065,capital,108,0.13
+Africa_Western,electricity,solar,PV,2070,capital,107,0.13
+Africa_Western,electricity,solar,PV,2075,capital,107,0.13
+Africa_Western,electricity,solar,PV,2080,capital,107,0.13
+Africa_Western,electricity,solar,PV,2085,capital,107,0.13
+Africa_Western,electricity,solar,PV,2090,capital,107,0.13
+Africa_Western,electricity,solar,PV,2095,capital,107,0.13
+Africa_Western,electricity,solar,PV,2100,capital,107,0.13
+Australia_NZ,electricity,wind,wind,1975,capital,451,0.13
+Australia_NZ,electricity,wind,wind,1990,capital,451,0.13
+Australia_NZ,electricity,wind,wind,2005,capital,451,0.13
+Australia_NZ,electricity,wind,wind,2010,capital,451,0.13
+Australia_NZ,electricity,wind,wind,2015,capital,451,0.13
+Australia_NZ,electricity,wind,wind,2020,capital,387,0.13
+Australia_NZ,electricity,wind,wind,2025,capital,341,0.13
+Australia_NZ,electricity,wind,wind,2030,capital,306,0.13
+Australia_NZ,electricity,wind,wind,2035,capital,281,0.13
+Australia_NZ,electricity,wind,wind,2040,capital,263,0.13
+Australia_NZ,electricity,wind,wind,2045,capital,249,0.13
+Australia_NZ,electricity,wind,wind,2050,capital,239,0.13
+Australia_NZ,electricity,wind,wind,2055,capital,232,0.13
+Australia_NZ,electricity,wind,wind,2060,capital,227,0.13
+Australia_NZ,electricity,wind,wind,2065,capital,223,0.13
+Australia_NZ,electricity,wind,wind,2070,capital,220,0.13
+Australia_NZ,electricity,wind,wind,2075,capital,218,0.13
+Australia_NZ,electricity,wind,wind,2080,capital,216,0.13
+Australia_NZ,electricity,wind,wind,2085,capital,215,0.13
+Australia_NZ,electricity,wind,wind,2090,capital,214,0.13
+Australia_NZ,electricity,wind,wind,2095,capital,214,0.13
+Australia_NZ,electricity,wind,wind,2100,capital,213,0.13
+Australia_NZ,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Australia_NZ,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Australia_NZ,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Australia_NZ,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Australia_NZ,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Australia_NZ,electricity,wind,wind_offshore,2020,capital,886,0.13
+Australia_NZ,electricity,wind,wind_offshore,2025,capital,722,0.13
+Australia_NZ,electricity,wind,wind_offshore,2030,capital,606,0.13
+Australia_NZ,electricity,wind,wind_offshore,2035,capital,524,0.13
+Australia_NZ,electricity,wind,wind_offshore,2040,capital,466,0.13
+Australia_NZ,electricity,wind,wind_offshore,2045,capital,425,0.13
+Australia_NZ,electricity,wind,wind_offshore,2050,capital,396,0.13
+Australia_NZ,electricity,wind,wind_offshore,2055,capital,376,0.13
+Australia_NZ,electricity,wind,wind_offshore,2060,capital,361,0.13
+Australia_NZ,electricity,wind,wind_offshore,2065,capital,351,0.13
+Australia_NZ,electricity,wind,wind_offshore,2070,capital,343,0.13
+Australia_NZ,electricity,wind,wind_offshore,2075,capital,338,0.13
+Australia_NZ,electricity,wind,wind_offshore,2080,capital,335,0.13
+Australia_NZ,electricity,wind,wind_offshore,2085,capital,332,0.13
+Australia_NZ,electricity,wind,wind_offshore,2090,capital,330,0.13
+Australia_NZ,electricity,wind,wind_offshore,2095,capital,329,0.13
+Australia_NZ,electricity,wind,wind_offshore,2100,capital,328,0.13
+Australia_NZ,electricity,solar,PV,1975,capital,667,0.13
+Australia_NZ,electricity,solar,PV,1990,capital,667,0.13
+Australia_NZ,electricity,solar,PV,2005,capital,667,0.13
+Australia_NZ,electricity,solar,PV,2010,capital,667,0.13
+Australia_NZ,electricity,solar,PV,2015,capital,667,0.13
+Australia_NZ,electricity,solar,PV,2020,capital,402,0.13
+Australia_NZ,electricity,solar,PV,2025,capital,263,0.13
+Australia_NZ,electricity,solar,PV,2030,capital,189,0.13
+Australia_NZ,electricity,solar,PV,2035,capital,150,0.13
+Australia_NZ,electricity,solar,PV,2040,capital,130,0.13
+Australia_NZ,electricity,solar,PV,2045,capital,119,0.13
+Australia_NZ,electricity,solar,PV,2050,capital,113,0.13
+Australia_NZ,electricity,solar,PV,2055,capital,110,0.13
+Australia_NZ,electricity,solar,PV,2060,capital,108,0.13
+Australia_NZ,electricity,solar,PV,2065,capital,108,0.13
+Australia_NZ,electricity,solar,PV,2070,capital,107,0.13
+Australia_NZ,electricity,solar,PV,2075,capital,107,0.13
+Australia_NZ,electricity,solar,PV,2080,capital,107,0.13
+Australia_NZ,electricity,solar,PV,2085,capital,107,0.13
+Australia_NZ,electricity,solar,PV,2090,capital,107,0.13
+Australia_NZ,electricity,solar,PV,2095,capital,107,0.13
+Australia_NZ,electricity,solar,PV,2100,capital,107,0.13
+Brazil,electricity,wind,wind,1975,capital,451,0.13
+Brazil,electricity,wind,wind,1990,capital,451,0.13
+Brazil,electricity,wind,wind,2005,capital,451,0.13
+Brazil,electricity,wind,wind,2010,capital,451,0.13
+Brazil,electricity,wind,wind,2015,capital,451,0.13
+Brazil,electricity,wind,wind,2020,capital,387,0.13
+Brazil,electricity,wind,wind,2025,capital,341,0.13
+Brazil,electricity,wind,wind,2030,capital,306,0.13
+Brazil,electricity,wind,wind,2035,capital,281,0.13
+Brazil,electricity,wind,wind,2040,capital,263,0.13
+Brazil,electricity,wind,wind,2045,capital,249,0.13
+Brazil,electricity,wind,wind,2050,capital,239,0.13
+Brazil,electricity,wind,wind,2055,capital,232,0.13
+Brazil,electricity,wind,wind,2060,capital,227,0.13
+Brazil,electricity,wind,wind,2065,capital,223,0.13
+Brazil,electricity,wind,wind,2070,capital,220,0.13
+Brazil,electricity,wind,wind,2075,capital,218,0.13
+Brazil,electricity,wind,wind,2080,capital,216,0.13
+Brazil,electricity,wind,wind,2085,capital,215,0.13
+Brazil,electricity,wind,wind,2090,capital,214,0.13
+Brazil,electricity,wind,wind,2095,capital,214,0.13
+Brazil,electricity,wind,wind,2100,capital,213,0.13
+Brazil,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Brazil,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Brazil,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Brazil,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Brazil,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Brazil,electricity,wind,wind_offshore,2020,capital,886,0.13
+Brazil,electricity,wind,wind_offshore,2025,capital,722,0.13
+Brazil,electricity,wind,wind_offshore,2030,capital,606,0.13
+Brazil,electricity,wind,wind_offshore,2035,capital,524,0.13
+Brazil,electricity,wind,wind_offshore,2040,capital,466,0.13
+Brazil,electricity,wind,wind_offshore,2045,capital,425,0.13
+Brazil,electricity,wind,wind_offshore,2050,capital,396,0.13
+Brazil,electricity,wind,wind_offshore,2055,capital,376,0.13
+Brazil,electricity,wind,wind_offshore,2060,capital,361,0.13
+Brazil,electricity,wind,wind_offshore,2065,capital,351,0.13
+Brazil,electricity,wind,wind_offshore,2070,capital,343,0.13
+Brazil,electricity,wind,wind_offshore,2075,capital,338,0.13
+Brazil,electricity,wind,wind_offshore,2080,capital,335,0.13
+Brazil,electricity,wind,wind_offshore,2085,capital,332,0.13
+Brazil,electricity,wind,wind_offshore,2090,capital,330,0.13
+Brazil,electricity,wind,wind_offshore,2095,capital,329,0.13
+Brazil,electricity,wind,wind_offshore,2100,capital,328,0.13
+Brazil,electricity,solar,PV,1975,capital,667,0.13
+Brazil,electricity,solar,PV,1990,capital,667,0.13
+Brazil,electricity,solar,PV,2005,capital,667,0.13
+Brazil,electricity,solar,PV,2010,capital,667,0.13
+Brazil,electricity,solar,PV,2015,capital,667,0.13
+Brazil,electricity,solar,PV,2020,capital,402,0.13
+Brazil,electricity,solar,PV,2025,capital,263,0.13
+Brazil,electricity,solar,PV,2030,capital,189,0.13
+Brazil,electricity,solar,PV,2035,capital,150,0.13
+Brazil,electricity,solar,PV,2040,capital,130,0.13
+Brazil,electricity,solar,PV,2045,capital,119,0.13
+Brazil,electricity,solar,PV,2050,capital,113,0.13
+Brazil,electricity,solar,PV,2055,capital,110,0.13
+Brazil,electricity,solar,PV,2060,capital,108,0.13
+Brazil,electricity,solar,PV,2065,capital,108,0.13
+Brazil,electricity,solar,PV,2070,capital,107,0.13
+Brazil,electricity,solar,PV,2075,capital,107,0.13
+Brazil,electricity,solar,PV,2080,capital,107,0.13
+Brazil,electricity,solar,PV,2085,capital,107,0.13
+Brazil,electricity,solar,PV,2090,capital,107,0.13
+Brazil,electricity,solar,PV,2095,capital,107,0.13
+Brazil,electricity,solar,PV,2100,capital,107,0.13
+Canada,electricity,wind,wind,1975,capital,451,0.13
+Canada,electricity,wind,wind,1990,capital,451,0.13
+Canada,electricity,wind,wind,2005,capital,451,0.13
+Canada,electricity,wind,wind,2010,capital,451,0.13
+Canada,electricity,wind,wind,2015,capital,451,0.13
+Canada,electricity,wind,wind,2020,capital,387,0.13
+Canada,electricity,wind,wind,2025,capital,341,0.13
+Canada,electricity,wind,wind,2030,capital,306,0.13
+Canada,electricity,wind,wind,2035,capital,281,0.13
+Canada,electricity,wind,wind,2040,capital,263,0.13
+Canada,electricity,wind,wind,2045,capital,249,0.13
+Canada,electricity,wind,wind,2050,capital,239,0.13
+Canada,electricity,wind,wind,2055,capital,232,0.13
+Canada,electricity,wind,wind,2060,capital,227,0.13
+Canada,electricity,wind,wind,2065,capital,223,0.13
+Canada,electricity,wind,wind,2070,capital,220,0.13
+Canada,electricity,wind,wind,2075,capital,218,0.13
+Canada,electricity,wind,wind,2080,capital,216,0.13
+Canada,electricity,wind,wind,2085,capital,215,0.13
+Canada,electricity,wind,wind,2090,capital,214,0.13
+Canada,electricity,wind,wind,2095,capital,214,0.13
+Canada,electricity,wind,wind,2100,capital,213,0.13
+Canada,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Canada,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Canada,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Canada,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Canada,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Canada,electricity,wind,wind_offshore,2020,capital,886,0.13
+Canada,electricity,wind,wind_offshore,2025,capital,722,0.13
+Canada,electricity,wind,wind_offshore,2030,capital,606,0.13
+Canada,electricity,wind,wind_offshore,2035,capital,524,0.13
+Canada,electricity,wind,wind_offshore,2040,capital,466,0.13
+Canada,electricity,wind,wind_offshore,2045,capital,425,0.13
+Canada,electricity,wind,wind_offshore,2050,capital,396,0.13
+Canada,electricity,wind,wind_offshore,2055,capital,376,0.13
+Canada,electricity,wind,wind_offshore,2060,capital,361,0.13
+Canada,electricity,wind,wind_offshore,2065,capital,351,0.13
+Canada,electricity,wind,wind_offshore,2070,capital,343,0.13
+Canada,electricity,wind,wind_offshore,2075,capital,338,0.13
+Canada,electricity,wind,wind_offshore,2080,capital,335,0.13
+Canada,electricity,wind,wind_offshore,2085,capital,332,0.13
+Canada,electricity,wind,wind_offshore,2090,capital,330,0.13
+Canada,electricity,wind,wind_offshore,2095,capital,329,0.13
+Canada,electricity,wind,wind_offshore,2100,capital,328,0.13
+Canada,electricity,solar,PV,1975,capital,667,0.13
+Canada,electricity,solar,PV,1990,capital,667,0.13
+Canada,electricity,solar,PV,2005,capital,667,0.13
+Canada,electricity,solar,PV,2010,capital,667,0.13
+Canada,electricity,solar,PV,2015,capital,667,0.13
+Canada,electricity,solar,PV,2020,capital,402,0.13
+Canada,electricity,solar,PV,2025,capital,263,0.13
+Canada,electricity,solar,PV,2030,capital,189,0.13
+Canada,electricity,solar,PV,2035,capital,150,0.13
+Canada,electricity,solar,PV,2040,capital,130,0.13
+Canada,electricity,solar,PV,2045,capital,119,0.13
+Canada,electricity,solar,PV,2050,capital,113,0.13
+Canada,electricity,solar,PV,2055,capital,110,0.13
+Canada,electricity,solar,PV,2060,capital,108,0.13
+Canada,electricity,solar,PV,2065,capital,108,0.13
+Canada,electricity,solar,PV,2070,capital,107,0.13
+Canada,electricity,solar,PV,2075,capital,107,0.13
+Canada,electricity,solar,PV,2080,capital,107,0.13
+Canada,electricity,solar,PV,2085,capital,107,0.13
+Canada,electricity,solar,PV,2090,capital,107,0.13
+Canada,electricity,solar,PV,2095,capital,107,0.13
+Canada,electricity,solar,PV,2100,capital,107,0.13
+Central America and Caribbean,electricity,wind,wind,1975,capital,451,0.13
+Central America and Caribbean,electricity,wind,wind,1990,capital,451,0.13
+Central America and Caribbean,electricity,wind,wind,2005,capital,451,0.13
+Central America and Caribbean,electricity,wind,wind,2010,capital,451,0.13
+Central America and Caribbean,electricity,wind,wind,2015,capital,451,0.13
+Central America and Caribbean,electricity,wind,wind,2020,capital,387,0.13
+Central America and Caribbean,electricity,wind,wind,2025,capital,341,0.13
+Central America and Caribbean,electricity,wind,wind,2030,capital,306,0.13
+Central America and Caribbean,electricity,wind,wind,2035,capital,281,0.13
+Central America and Caribbean,electricity,wind,wind,2040,capital,263,0.13
+Central America and Caribbean,electricity,wind,wind,2045,capital,249,0.13
+Central America and Caribbean,electricity,wind,wind,2050,capital,239,0.13
+Central America and Caribbean,electricity,wind,wind,2055,capital,232,0.13
+Central America and Caribbean,electricity,wind,wind,2060,capital,227,0.13
+Central America and Caribbean,electricity,wind,wind,2065,capital,223,0.13
+Central America and Caribbean,electricity,wind,wind,2070,capital,220,0.13
+Central America and Caribbean,electricity,wind,wind,2075,capital,218,0.13
+Central America and Caribbean,electricity,wind,wind,2080,capital,216,0.13
+Central America and Caribbean,electricity,wind,wind,2085,capital,215,0.13
+Central America and Caribbean,electricity,wind,wind,2090,capital,214,0.13
+Central America and Caribbean,electricity,wind,wind,2095,capital,214,0.13
+Central America and Caribbean,electricity,wind,wind,2100,capital,213,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2020,capital,886,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2025,capital,722,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2030,capital,606,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2035,capital,524,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2040,capital,466,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2045,capital,425,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2050,capital,396,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2055,capital,376,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2060,capital,361,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2065,capital,351,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2070,capital,343,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2075,capital,338,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2080,capital,335,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2085,capital,332,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2090,capital,330,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2095,capital,329,0.13
+Central America and Caribbean,electricity,wind,wind_offshore,2100,capital,328,0.13
+Central America and Caribbean,electricity,solar,PV,1975,capital,667,0.13
+Central America and Caribbean,electricity,solar,PV,1990,capital,667,0.13
+Central America and Caribbean,electricity,solar,PV,2005,capital,667,0.13
+Central America and Caribbean,electricity,solar,PV,2010,capital,667,0.13
+Central America and Caribbean,electricity,solar,PV,2015,capital,667,0.13
+Central America and Caribbean,electricity,solar,PV,2020,capital,402,0.13
+Central America and Caribbean,electricity,solar,PV,2025,capital,263,0.13
+Central America and Caribbean,electricity,solar,PV,2030,capital,189,0.13
+Central America and Caribbean,electricity,solar,PV,2035,capital,150,0.13
+Central America and Caribbean,electricity,solar,PV,2040,capital,130,0.13
+Central America and Caribbean,electricity,solar,PV,2045,capital,119,0.13
+Central America and Caribbean,electricity,solar,PV,2050,capital,113,0.13
+Central America and Caribbean,electricity,solar,PV,2055,capital,110,0.13
+Central America and Caribbean,electricity,solar,PV,2060,capital,108,0.13
+Central America and Caribbean,electricity,solar,PV,2065,capital,108,0.13
+Central America and Caribbean,electricity,solar,PV,2070,capital,107,0.13
+Central America and Caribbean,electricity,solar,PV,2075,capital,107,0.13
+Central America and Caribbean,electricity,solar,PV,2080,capital,107,0.13
+Central America and Caribbean,electricity,solar,PV,2085,capital,107,0.13
+Central America and Caribbean,electricity,solar,PV,2090,capital,107,0.13
+Central America and Caribbean,electricity,solar,PV,2095,capital,107,0.13
+Central America and Caribbean,electricity,solar,PV,2100,capital,107,0.13
+Central Asia,electricity,wind,wind,1975,capital,451,0.13
+Central Asia,electricity,wind,wind,1990,capital,451,0.13
+Central Asia,electricity,wind,wind,2005,capital,451,0.13
+Central Asia,electricity,wind,wind,2010,capital,451,0.13
+Central Asia,electricity,wind,wind,2015,capital,451,0.13
+Central Asia,electricity,wind,wind,2020,capital,387,0.13
+Central Asia,electricity,wind,wind,2025,capital,341,0.13
+Central Asia,electricity,wind,wind,2030,capital,306,0.13
+Central Asia,electricity,wind,wind,2035,capital,281,0.13
+Central Asia,electricity,wind,wind,2040,capital,263,0.13
+Central Asia,electricity,wind,wind,2045,capital,249,0.13
+Central Asia,electricity,wind,wind,2050,capital,239,0.13
+Central Asia,electricity,wind,wind,2055,capital,232,0.13
+Central Asia,electricity,wind,wind,2060,capital,227,0.13
+Central Asia,electricity,wind,wind,2065,capital,223,0.13
+Central Asia,electricity,wind,wind,2070,capital,220,0.13
+Central Asia,electricity,wind,wind,2075,capital,218,0.13
+Central Asia,electricity,wind,wind,2080,capital,216,0.13
+Central Asia,electricity,wind,wind,2085,capital,215,0.13
+Central Asia,electricity,wind,wind,2090,capital,214,0.13
+Central Asia,electricity,wind,wind,2095,capital,214,0.13
+Central Asia,electricity,wind,wind,2100,capital,213,0.13
+Central Asia,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Central Asia,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Central Asia,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Central Asia,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Central Asia,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Central Asia,electricity,wind,wind_offshore,2020,capital,886,0.13
+Central Asia,electricity,wind,wind_offshore,2025,capital,722,0.13
+Central Asia,electricity,wind,wind_offshore,2030,capital,606,0.13
+Central Asia,electricity,wind,wind_offshore,2035,capital,524,0.13
+Central Asia,electricity,wind,wind_offshore,2040,capital,466,0.13
+Central Asia,electricity,wind,wind_offshore,2045,capital,425,0.13
+Central Asia,electricity,wind,wind_offshore,2050,capital,396,0.13
+Central Asia,electricity,wind,wind_offshore,2055,capital,376,0.13
+Central Asia,electricity,wind,wind_offshore,2060,capital,361,0.13
+Central Asia,electricity,wind,wind_offshore,2065,capital,351,0.13
+Central Asia,electricity,wind,wind_offshore,2070,capital,343,0.13
+Central Asia,electricity,wind,wind_offshore,2075,capital,338,0.13
+Central Asia,electricity,wind,wind_offshore,2080,capital,335,0.13
+Central Asia,electricity,wind,wind_offshore,2085,capital,332,0.13
+Central Asia,electricity,wind,wind_offshore,2090,capital,330,0.13
+Central Asia,electricity,wind,wind_offshore,2095,capital,329,0.13
+Central Asia,electricity,wind,wind_offshore,2100,capital,328,0.13
+Central Asia,electricity,solar,PV,1975,capital,667,0.13
+Central Asia,electricity,solar,PV,1990,capital,667,0.13
+Central Asia,electricity,solar,PV,2005,capital,667,0.13
+Central Asia,electricity,solar,PV,2010,capital,667,0.13
+Central Asia,electricity,solar,PV,2015,capital,667,0.13
+Central Asia,electricity,solar,PV,2020,capital,402,0.13
+Central Asia,electricity,solar,PV,2025,capital,263,0.13
+Central Asia,electricity,solar,PV,2030,capital,189,0.13
+Central Asia,electricity,solar,PV,2035,capital,150,0.13
+Central Asia,electricity,solar,PV,2040,capital,130,0.13
+Central Asia,electricity,solar,PV,2045,capital,119,0.13
+Central Asia,electricity,solar,PV,2050,capital,113,0.13
+Central Asia,electricity,solar,PV,2055,capital,110,0.13
+Central Asia,electricity,solar,PV,2060,capital,108,0.13
+Central Asia,electricity,solar,PV,2065,capital,108,0.13
+Central Asia,electricity,solar,PV,2070,capital,107,0.13
+Central Asia,electricity,solar,PV,2075,capital,107,0.13
+Central Asia,electricity,solar,PV,2080,capital,107,0.13
+Central Asia,electricity,solar,PV,2085,capital,107,0.13
+Central Asia,electricity,solar,PV,2090,capital,107,0.13
+Central Asia,electricity,solar,PV,2095,capital,107,0.13
+Central Asia,electricity,solar,PV,2100,capital,107,0.13
+China,electricity,wind,wind,1975,capital,451,0.13
+China,electricity,wind,wind,1990,capital,451,0.13
+China,electricity,wind,wind,2005,capital,451,0.13
+China,electricity,wind,wind,2010,capital,451,0.13
+China,electricity,wind,wind,2015,capital,451,0.13
+China,electricity,wind,wind,2020,capital,387,0.13
+China,electricity,wind,wind,2025,capital,341,0.13
+China,electricity,wind,wind,2030,capital,306,0.13
+China,electricity,wind,wind,2035,capital,281,0.13
+China,electricity,wind,wind,2040,capital,263,0.13
+China,electricity,wind,wind,2045,capital,249,0.13
+China,electricity,wind,wind,2050,capital,239,0.13
+China,electricity,wind,wind,2055,capital,232,0.13
+China,electricity,wind,wind,2060,capital,227,0.13
+China,electricity,wind,wind,2065,capital,223,0.13
+China,electricity,wind,wind,2070,capital,220,0.13
+China,electricity,wind,wind,2075,capital,218,0.13
+China,electricity,wind,wind,2080,capital,216,0.13
+China,electricity,wind,wind,2085,capital,215,0.13
+China,electricity,wind,wind,2090,capital,214,0.13
+China,electricity,wind,wind,2095,capital,214,0.13
+China,electricity,wind,wind,2100,capital,213,0.13
+China,electricity,wind,wind_offshore,1975,capital,1118,0.13
+China,electricity,wind,wind_offshore,1990,capital,1118,0.13
+China,electricity,wind,wind_offshore,2005,capital,1118,0.13
+China,electricity,wind,wind_offshore,2010,capital,1118,0.13
+China,electricity,wind,wind_offshore,2015,capital,1118,0.13
+China,electricity,wind,wind_offshore,2020,capital,886,0.13
+China,electricity,wind,wind_offshore,2025,capital,722,0.13
+China,electricity,wind,wind_offshore,2030,capital,606,0.13
+China,electricity,wind,wind_offshore,2035,capital,524,0.13
+China,electricity,wind,wind_offshore,2040,capital,466,0.13
+China,electricity,wind,wind_offshore,2045,capital,425,0.13
+China,electricity,wind,wind_offshore,2050,capital,396,0.13
+China,electricity,wind,wind_offshore,2055,capital,376,0.13
+China,electricity,wind,wind_offshore,2060,capital,361,0.13
+China,electricity,wind,wind_offshore,2065,capital,351,0.13
+China,electricity,wind,wind_offshore,2070,capital,343,0.13
+China,electricity,wind,wind_offshore,2075,capital,338,0.13
+China,electricity,wind,wind_offshore,2080,capital,335,0.13
+China,electricity,wind,wind_offshore,2085,capital,332,0.13
+China,electricity,wind,wind_offshore,2090,capital,330,0.13
+China,electricity,wind,wind_offshore,2095,capital,329,0.13
+China,electricity,wind,wind_offshore,2100,capital,328,0.13
+China,electricity,solar,PV,1975,capital,667,0.13
+China,electricity,solar,PV,1990,capital,667,0.13
+China,electricity,solar,PV,2005,capital,667,0.13
+China,electricity,solar,PV,2010,capital,667,0.13
+China,electricity,solar,PV,2015,capital,667,0.13
+China,electricity,solar,PV,2020,capital,402,0.13
+China,electricity,solar,PV,2025,capital,263,0.13
+China,electricity,solar,PV,2030,capital,189,0.13
+China,electricity,solar,PV,2035,capital,150,0.13
+China,electricity,solar,PV,2040,capital,130,0.13
+China,electricity,solar,PV,2045,capital,119,0.13
+China,electricity,solar,PV,2050,capital,113,0.13
+China,electricity,solar,PV,2055,capital,110,0.13
+China,electricity,solar,PV,2060,capital,108,0.13
+China,electricity,solar,PV,2065,capital,108,0.13
+China,electricity,solar,PV,2070,capital,107,0.13
+China,electricity,solar,PV,2075,capital,107,0.13
+China,electricity,solar,PV,2080,capital,107,0.13
+China,electricity,solar,PV,2085,capital,107,0.13
+China,electricity,solar,PV,2090,capital,107,0.13
+China,electricity,solar,PV,2095,capital,107,0.13
+China,electricity,solar,PV,2100,capital,107,0.13
+EU-12,electricity,wind,wind,1975,capital,451,0.13
+EU-12,electricity,wind,wind,1990,capital,451,0.13
+EU-12,electricity,wind,wind,2005,capital,451,0.13
+EU-12,electricity,wind,wind,2010,capital,451,0.13
+EU-12,electricity,wind,wind,2015,capital,451,0.13
+EU-12,electricity,wind,wind,2020,capital,387,0.13
+EU-12,electricity,wind,wind,2025,capital,341,0.13
+EU-12,electricity,wind,wind,2030,capital,306,0.13
+EU-12,electricity,wind,wind,2035,capital,281,0.13
+EU-12,electricity,wind,wind,2040,capital,263,0.13
+EU-12,electricity,wind,wind,2045,capital,249,0.13
+EU-12,electricity,wind,wind,2050,capital,239,0.13
+EU-12,electricity,wind,wind,2055,capital,232,0.13
+EU-12,electricity,wind,wind,2060,capital,227,0.13
+EU-12,electricity,wind,wind,2065,capital,223,0.13
+EU-12,electricity,wind,wind,2070,capital,220,0.13
+EU-12,electricity,wind,wind,2075,capital,218,0.13
+EU-12,electricity,wind,wind,2080,capital,216,0.13
+EU-12,electricity,wind,wind,2085,capital,215,0.13
+EU-12,electricity,wind,wind,2090,capital,214,0.13
+EU-12,electricity,wind,wind,2095,capital,214,0.13
+EU-12,electricity,wind,wind,2100,capital,213,0.13
+EU-12,electricity,wind,wind_offshore,1975,capital,1118,0.13
+EU-12,electricity,wind,wind_offshore,1990,capital,1118,0.13
+EU-12,electricity,wind,wind_offshore,2005,capital,1118,0.13
+EU-12,electricity,wind,wind_offshore,2010,capital,1118,0.13
+EU-12,electricity,wind,wind_offshore,2015,capital,1118,0.13
+EU-12,electricity,wind,wind_offshore,2020,capital,886,0.13
+EU-12,electricity,wind,wind_offshore,2025,capital,722,0.13
+EU-12,electricity,wind,wind_offshore,2030,capital,606,0.13
+EU-12,electricity,wind,wind_offshore,2035,capital,524,0.13
+EU-12,electricity,wind,wind_offshore,2040,capital,466,0.13
+EU-12,electricity,wind,wind_offshore,2045,capital,425,0.13
+EU-12,electricity,wind,wind_offshore,2050,capital,396,0.13
+EU-12,electricity,wind,wind_offshore,2055,capital,376,0.13
+EU-12,electricity,wind,wind_offshore,2060,capital,361,0.13
+EU-12,electricity,wind,wind_offshore,2065,capital,351,0.13
+EU-12,electricity,wind,wind_offshore,2070,capital,343,0.13
+EU-12,electricity,wind,wind_offshore,2075,capital,338,0.13
+EU-12,electricity,wind,wind_offshore,2080,capital,335,0.13
+EU-12,electricity,wind,wind_offshore,2085,capital,332,0.13
+EU-12,electricity,wind,wind_offshore,2090,capital,330,0.13
+EU-12,electricity,wind,wind_offshore,2095,capital,329,0.13
+EU-12,electricity,wind,wind_offshore,2100,capital,328,0.13
+EU-12,electricity,solar,PV,1975,capital,667,0.13
+EU-12,electricity,solar,PV,1990,capital,667,0.13
+EU-12,electricity,solar,PV,2005,capital,667,0.13
+EU-12,electricity,solar,PV,2010,capital,667,0.13
+EU-12,electricity,solar,PV,2015,capital,667,0.13
+EU-12,electricity,solar,PV,2020,capital,402,0.13
+EU-12,electricity,solar,PV,2025,capital,263,0.13
+EU-12,electricity,solar,PV,2030,capital,189,0.13
+EU-12,electricity,solar,PV,2035,capital,150,0.13
+EU-12,electricity,solar,PV,2040,capital,130,0.13
+EU-12,electricity,solar,PV,2045,capital,119,0.13
+EU-12,electricity,solar,PV,2050,capital,113,0.13
+EU-12,electricity,solar,PV,2055,capital,110,0.13
+EU-12,electricity,solar,PV,2060,capital,108,0.13
+EU-12,electricity,solar,PV,2065,capital,108,0.13
+EU-12,electricity,solar,PV,2070,capital,107,0.13
+EU-12,electricity,solar,PV,2075,capital,107,0.13
+EU-12,electricity,solar,PV,2080,capital,107,0.13
+EU-12,electricity,solar,PV,2085,capital,107,0.13
+EU-12,electricity,solar,PV,2090,capital,107,0.13
+EU-12,electricity,solar,PV,2095,capital,107,0.13
+EU-12,electricity,solar,PV,2100,capital,107,0.13
+EU-15,electricity,wind,wind,1975,capital,451,0.13
+EU-15,electricity,wind,wind,1990,capital,451,0.13
+EU-15,electricity,wind,wind,2005,capital,451,0.13
+EU-15,electricity,wind,wind,2010,capital,451,0.13
+EU-15,electricity,wind,wind,2015,capital,451,0.13
+EU-15,electricity,wind,wind,2020,capital,387,0.13
+EU-15,electricity,wind,wind,2025,capital,341,0.13
+EU-15,electricity,wind,wind,2030,capital,306,0.13
+EU-15,electricity,wind,wind,2035,capital,281,0.13
+EU-15,electricity,wind,wind,2040,capital,263,0.13
+EU-15,electricity,wind,wind,2045,capital,249,0.13
+EU-15,electricity,wind,wind,2050,capital,239,0.13
+EU-15,electricity,wind,wind,2055,capital,232,0.13
+EU-15,electricity,wind,wind,2060,capital,227,0.13
+EU-15,electricity,wind,wind,2065,capital,223,0.13
+EU-15,electricity,wind,wind,2070,capital,220,0.13
+EU-15,electricity,wind,wind,2075,capital,218,0.13
+EU-15,electricity,wind,wind,2080,capital,216,0.13
+EU-15,electricity,wind,wind,2085,capital,215,0.13
+EU-15,electricity,wind,wind,2090,capital,214,0.13
+EU-15,electricity,wind,wind,2095,capital,214,0.13
+EU-15,electricity,wind,wind,2100,capital,213,0.13
+EU-15,electricity,wind,wind_offshore,1975,capital,1118,0.13
+EU-15,electricity,wind,wind_offshore,1990,capital,1118,0.13
+EU-15,electricity,wind,wind_offshore,2005,capital,1118,0.13
+EU-15,electricity,wind,wind_offshore,2010,capital,1118,0.13
+EU-15,electricity,wind,wind_offshore,2015,capital,1118,0.13
+EU-15,electricity,wind,wind_offshore,2020,capital,886,0.13
+EU-15,electricity,wind,wind_offshore,2025,capital,722,0.13
+EU-15,electricity,wind,wind_offshore,2030,capital,606,0.13
+EU-15,electricity,wind,wind_offshore,2035,capital,524,0.13
+EU-15,electricity,wind,wind_offshore,2040,capital,466,0.13
+EU-15,electricity,wind,wind_offshore,2045,capital,425,0.13
+EU-15,electricity,wind,wind_offshore,2050,capital,396,0.13
+EU-15,electricity,wind,wind_offshore,2055,capital,376,0.13
+EU-15,electricity,wind,wind_offshore,2060,capital,361,0.13
+EU-15,electricity,wind,wind_offshore,2065,capital,351,0.13
+EU-15,electricity,wind,wind_offshore,2070,capital,343,0.13
+EU-15,electricity,wind,wind_offshore,2075,capital,338,0.13
+EU-15,electricity,wind,wind_offshore,2080,capital,335,0.13
+EU-15,electricity,wind,wind_offshore,2085,capital,332,0.13
+EU-15,electricity,wind,wind_offshore,2090,capital,330,0.13
+EU-15,electricity,wind,wind_offshore,2095,capital,329,0.13
+EU-15,electricity,wind,wind_offshore,2100,capital,328,0.13
+EU-15,electricity,solar,PV,1975,capital,667,0.13
+EU-15,electricity,solar,PV,1990,capital,667,0.13
+EU-15,electricity,solar,PV,2005,capital,667,0.13
+EU-15,electricity,solar,PV,2010,capital,667,0.13
+EU-15,electricity,solar,PV,2015,capital,667,0.13
+EU-15,electricity,solar,PV,2020,capital,402,0.13
+EU-15,electricity,solar,PV,2025,capital,263,0.13
+EU-15,electricity,solar,PV,2030,capital,189,0.13
+EU-15,electricity,solar,PV,2035,capital,150,0.13
+EU-15,electricity,solar,PV,2040,capital,130,0.13
+EU-15,electricity,solar,PV,2045,capital,119,0.13
+EU-15,electricity,solar,PV,2050,capital,113,0.13
+EU-15,electricity,solar,PV,2055,capital,110,0.13
+EU-15,electricity,solar,PV,2060,capital,108,0.13
+EU-15,electricity,solar,PV,2065,capital,108,0.13
+EU-15,electricity,solar,PV,2070,capital,107,0.13
+EU-15,electricity,solar,PV,2075,capital,107,0.13
+EU-15,electricity,solar,PV,2080,capital,107,0.13
+EU-15,electricity,solar,PV,2085,capital,107,0.13
+EU-15,electricity,solar,PV,2090,capital,107,0.13
+EU-15,electricity,solar,PV,2095,capital,107,0.13
+EU-15,electricity,solar,PV,2100,capital,107,0.13
+Europe_Eastern,electricity,wind,wind,1975,capital,451,0.13
+Europe_Eastern,electricity,wind,wind,1990,capital,451,0.13
+Europe_Eastern,electricity,wind,wind,2005,capital,451,0.13
+Europe_Eastern,electricity,wind,wind,2010,capital,451,0.13
+Europe_Eastern,electricity,wind,wind,2015,capital,451,0.13
+Europe_Eastern,electricity,wind,wind,2020,capital,387,0.13
+Europe_Eastern,electricity,wind,wind,2025,capital,341,0.13
+Europe_Eastern,electricity,wind,wind,2030,capital,306,0.13
+Europe_Eastern,electricity,wind,wind,2035,capital,281,0.13
+Europe_Eastern,electricity,wind,wind,2040,capital,263,0.13
+Europe_Eastern,electricity,wind,wind,2045,capital,249,0.13
+Europe_Eastern,electricity,wind,wind,2050,capital,239,0.13
+Europe_Eastern,electricity,wind,wind,2055,capital,232,0.13
+Europe_Eastern,electricity,wind,wind,2060,capital,227,0.13
+Europe_Eastern,electricity,wind,wind,2065,capital,223,0.13
+Europe_Eastern,electricity,wind,wind,2070,capital,220,0.13
+Europe_Eastern,electricity,wind,wind,2075,capital,218,0.13
+Europe_Eastern,electricity,wind,wind,2080,capital,216,0.13
+Europe_Eastern,electricity,wind,wind,2085,capital,215,0.13
+Europe_Eastern,electricity,wind,wind,2090,capital,214,0.13
+Europe_Eastern,electricity,wind,wind,2095,capital,214,0.13
+Europe_Eastern,electricity,wind,wind,2100,capital,213,0.13
+Europe_Eastern,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Europe_Eastern,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2020,capital,886,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2025,capital,722,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2030,capital,606,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2035,capital,524,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2040,capital,466,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2045,capital,425,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2050,capital,396,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2055,capital,376,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2060,capital,361,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2065,capital,351,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2070,capital,343,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2075,capital,338,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2080,capital,335,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2085,capital,332,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2090,capital,330,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2095,capital,329,0.13
+Europe_Eastern,electricity,wind,wind_offshore,2100,capital,328,0.13
+Europe_Eastern,electricity,solar,PV,1975,capital,667,0.13
+Europe_Eastern,electricity,solar,PV,1990,capital,667,0.13
+Europe_Eastern,electricity,solar,PV,2005,capital,667,0.13
+Europe_Eastern,electricity,solar,PV,2010,capital,667,0.13
+Europe_Eastern,electricity,solar,PV,2015,capital,667,0.13
+Europe_Eastern,electricity,solar,PV,2020,capital,402,0.13
+Europe_Eastern,electricity,solar,PV,2025,capital,263,0.13
+Europe_Eastern,electricity,solar,PV,2030,capital,189,0.13
+Europe_Eastern,electricity,solar,PV,2035,capital,150,0.13
+Europe_Eastern,electricity,solar,PV,2040,capital,130,0.13
+Europe_Eastern,electricity,solar,PV,2045,capital,119,0.13
+Europe_Eastern,electricity,solar,PV,2050,capital,113,0.13
+Europe_Eastern,electricity,solar,PV,2055,capital,110,0.13
+Europe_Eastern,electricity,solar,PV,2060,capital,108,0.13
+Europe_Eastern,electricity,solar,PV,2065,capital,108,0.13
+Europe_Eastern,electricity,solar,PV,2070,capital,107,0.13
+Europe_Eastern,electricity,solar,PV,2075,capital,107,0.13
+Europe_Eastern,electricity,solar,PV,2080,capital,107,0.13
+Europe_Eastern,electricity,solar,PV,2085,capital,107,0.13
+Europe_Eastern,electricity,solar,PV,2090,capital,107,0.13
+Europe_Eastern,electricity,solar,PV,2095,capital,107,0.13
+Europe_Eastern,electricity,solar,PV,2100,capital,107,0.13
+Europe_Non_EU,electricity,wind,wind,1975,capital,451,0.13
+Europe_Non_EU,electricity,wind,wind,1990,capital,451,0.13
+Europe_Non_EU,electricity,wind,wind,2005,capital,451,0.13
+Europe_Non_EU,electricity,wind,wind,2010,capital,451,0.13
+Europe_Non_EU,electricity,wind,wind,2015,capital,451,0.13
+Europe_Non_EU,electricity,wind,wind,2020,capital,387,0.13
+Europe_Non_EU,electricity,wind,wind,2025,capital,341,0.13
+Europe_Non_EU,electricity,wind,wind,2030,capital,306,0.13
+Europe_Non_EU,electricity,wind,wind,2035,capital,281,0.13
+Europe_Non_EU,electricity,wind,wind,2040,capital,263,0.13
+Europe_Non_EU,electricity,wind,wind,2045,capital,249,0.13
+Europe_Non_EU,electricity,wind,wind,2050,capital,239,0.13
+Europe_Non_EU,electricity,wind,wind,2055,capital,232,0.13
+Europe_Non_EU,electricity,wind,wind,2060,capital,227,0.13
+Europe_Non_EU,electricity,wind,wind,2065,capital,223,0.13
+Europe_Non_EU,electricity,wind,wind,2070,capital,220,0.13
+Europe_Non_EU,electricity,wind,wind,2075,capital,218,0.13
+Europe_Non_EU,electricity,wind,wind,2080,capital,216,0.13
+Europe_Non_EU,electricity,wind,wind,2085,capital,215,0.13
+Europe_Non_EU,electricity,wind,wind,2090,capital,214,0.13
+Europe_Non_EU,electricity,wind,wind,2095,capital,214,0.13
+Europe_Non_EU,electricity,wind,wind,2100,capital,213,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2020,capital,886,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2025,capital,722,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2030,capital,606,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2035,capital,524,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2040,capital,466,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2045,capital,425,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2050,capital,396,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2055,capital,376,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2060,capital,361,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2065,capital,351,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2070,capital,343,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2075,capital,338,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2080,capital,335,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2085,capital,332,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2090,capital,330,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2095,capital,329,0.13
+Europe_Non_EU,electricity,wind,wind_offshore,2100,capital,328,0.13
+Europe_Non_EU,electricity,solar,PV,1975,capital,667,0.13
+Europe_Non_EU,electricity,solar,PV,1990,capital,667,0.13
+Europe_Non_EU,electricity,solar,PV,2005,capital,667,0.13
+Europe_Non_EU,electricity,solar,PV,2010,capital,667,0.13
+Europe_Non_EU,electricity,solar,PV,2015,capital,667,0.13
+Europe_Non_EU,electricity,solar,PV,2020,capital,402,0.13
+Europe_Non_EU,electricity,solar,PV,2025,capital,263,0.13
+Europe_Non_EU,electricity,solar,PV,2030,capital,189,0.13
+Europe_Non_EU,electricity,solar,PV,2035,capital,150,0.13
+Europe_Non_EU,electricity,solar,PV,2040,capital,130,0.13
+Europe_Non_EU,electricity,solar,PV,2045,capital,119,0.13
+Europe_Non_EU,electricity,solar,PV,2050,capital,113,0.13
+Europe_Non_EU,electricity,solar,PV,2055,capital,110,0.13
+Europe_Non_EU,electricity,solar,PV,2060,capital,108,0.13
+Europe_Non_EU,electricity,solar,PV,2065,capital,108,0.13
+Europe_Non_EU,electricity,solar,PV,2070,capital,107,0.13
+Europe_Non_EU,electricity,solar,PV,2075,capital,107,0.13
+Europe_Non_EU,electricity,solar,PV,2080,capital,107,0.13
+Europe_Non_EU,electricity,solar,PV,2085,capital,107,0.13
+Europe_Non_EU,electricity,solar,PV,2090,capital,107,0.13
+Europe_Non_EU,electricity,solar,PV,2095,capital,107,0.13
+Europe_Non_EU,electricity,solar,PV,2100,capital,107,0.13
+European Free Trade Association,electricity,wind,wind,1975,capital,451,0.13
+European Free Trade Association,electricity,wind,wind,1990,capital,451,0.13
+European Free Trade Association,electricity,wind,wind,2005,capital,451,0.13
+European Free Trade Association,electricity,wind,wind,2010,capital,451,0.13
+European Free Trade Association,electricity,wind,wind,2015,capital,451,0.13
+European Free Trade Association,electricity,wind,wind,2020,capital,387,0.13
+European Free Trade Association,electricity,wind,wind,2025,capital,341,0.13
+European Free Trade Association,electricity,wind,wind,2030,capital,306,0.13
+European Free Trade Association,electricity,wind,wind,2035,capital,281,0.13
+European Free Trade Association,electricity,wind,wind,2040,capital,263,0.13
+European Free Trade Association,electricity,wind,wind,2045,capital,249,0.13
+European Free Trade Association,electricity,wind,wind,2050,capital,239,0.13
+European Free Trade Association,electricity,wind,wind,2055,capital,232,0.13
+European Free Trade Association,electricity,wind,wind,2060,capital,227,0.13
+European Free Trade Association,electricity,wind,wind,2065,capital,223,0.13
+European Free Trade Association,electricity,wind,wind,2070,capital,220,0.13
+European Free Trade Association,electricity,wind,wind,2075,capital,218,0.13
+European Free Trade Association,electricity,wind,wind,2080,capital,216,0.13
+European Free Trade Association,electricity,wind,wind,2085,capital,215,0.13
+European Free Trade Association,electricity,wind,wind,2090,capital,214,0.13
+European Free Trade Association,electricity,wind,wind,2095,capital,214,0.13
+European Free Trade Association,electricity,wind,wind,2100,capital,213,0.13
+European Free Trade Association,electricity,wind,wind_offshore,1975,capital,1118,0.13
+European Free Trade Association,electricity,wind,wind_offshore,1990,capital,1118,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2005,capital,1118,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2010,capital,1118,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2015,capital,1118,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2020,capital,886,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2025,capital,722,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2030,capital,606,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2035,capital,524,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2040,capital,466,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2045,capital,425,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2050,capital,396,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2055,capital,376,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2060,capital,361,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2065,capital,351,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2070,capital,343,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2075,capital,338,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2080,capital,335,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2085,capital,332,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2090,capital,330,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2095,capital,329,0.13
+European Free Trade Association,electricity,wind,wind_offshore,2100,capital,328,0.13
+European Free Trade Association,electricity,solar,PV,1975,capital,667,0.13
+European Free Trade Association,electricity,solar,PV,1990,capital,667,0.13
+European Free Trade Association,electricity,solar,PV,2005,capital,667,0.13
+European Free Trade Association,electricity,solar,PV,2010,capital,667,0.13
+European Free Trade Association,electricity,solar,PV,2015,capital,667,0.13
+European Free Trade Association,electricity,solar,PV,2020,capital,402,0.13
+European Free Trade Association,electricity,solar,PV,2025,capital,263,0.13
+European Free Trade Association,electricity,solar,PV,2030,capital,189,0.13
+European Free Trade Association,electricity,solar,PV,2035,capital,150,0.13
+European Free Trade Association,electricity,solar,PV,2040,capital,130,0.13
+European Free Trade Association,electricity,solar,PV,2045,capital,119,0.13
+European Free Trade Association,electricity,solar,PV,2050,capital,113,0.13
+European Free Trade Association,electricity,solar,PV,2055,capital,110,0.13
+European Free Trade Association,electricity,solar,PV,2060,capital,108,0.13
+European Free Trade Association,electricity,solar,PV,2065,capital,108,0.13
+European Free Trade Association,electricity,solar,PV,2070,capital,107,0.13
+European Free Trade Association,electricity,solar,PV,2075,capital,107,0.13
+European Free Trade Association,electricity,solar,PV,2080,capital,107,0.13
+European Free Trade Association,electricity,solar,PV,2085,capital,107,0.13
+European Free Trade Association,electricity,solar,PV,2090,capital,107,0.13
+European Free Trade Association,electricity,solar,PV,2095,capital,107,0.13
+European Free Trade Association,electricity,solar,PV,2100,capital,107,0.13
+India,electricity,wind,wind,1975,capital,451,0.13
+India,electricity,wind,wind,1990,capital,451,0.13
+India,electricity,wind,wind,2005,capital,451,0.13
+India,electricity,wind,wind,2010,capital,451,0.13
+India,electricity,wind,wind,2015,capital,451,0.13
+India,electricity,wind,wind,2020,capital,387,0.13
+India,electricity,wind,wind,2025,capital,341,0.13
+India,electricity,wind,wind,2030,capital,306,0.13
+India,electricity,wind,wind,2035,capital,281,0.13
+India,electricity,wind,wind,2040,capital,263,0.13
+India,electricity,wind,wind,2045,capital,249,0.13
+India,electricity,wind,wind,2050,capital,239,0.13
+India,electricity,wind,wind,2055,capital,232,0.13
+India,electricity,wind,wind,2060,capital,227,0.13
+India,electricity,wind,wind,2065,capital,223,0.13
+India,electricity,wind,wind,2070,capital,220,0.13
+India,electricity,wind,wind,2075,capital,218,0.13
+India,electricity,wind,wind,2080,capital,216,0.13
+India,electricity,wind,wind,2085,capital,215,0.13
+India,electricity,wind,wind,2090,capital,214,0.13
+India,electricity,wind,wind,2095,capital,214,0.13
+India,electricity,wind,wind,2100,capital,213,0.13
+India,electricity,wind,wind_offshore,1975,capital,1118,0.13
+India,electricity,wind,wind_offshore,1990,capital,1118,0.13
+India,electricity,wind,wind_offshore,2005,capital,1118,0.13
+India,electricity,wind,wind_offshore,2010,capital,1118,0.13
+India,electricity,wind,wind_offshore,2015,capital,1118,0.13
+India,electricity,wind,wind_offshore,2020,capital,886,0.13
+India,electricity,wind,wind_offshore,2025,capital,722,0.13
+India,electricity,wind,wind_offshore,2030,capital,606,0.13
+India,electricity,wind,wind_offshore,2035,capital,524,0.13
+India,electricity,wind,wind_offshore,2040,capital,466,0.13
+India,electricity,wind,wind_offshore,2045,capital,425,0.13
+India,electricity,wind,wind_offshore,2050,capital,396,0.13
+India,electricity,wind,wind_offshore,2055,capital,376,0.13
+India,electricity,wind,wind_offshore,2060,capital,361,0.13
+India,electricity,wind,wind_offshore,2065,capital,351,0.13
+India,electricity,wind,wind_offshore,2070,capital,343,0.13
+India,electricity,wind,wind_offshore,2075,capital,338,0.13
+India,electricity,wind,wind_offshore,2080,capital,335,0.13
+India,electricity,wind,wind_offshore,2085,capital,332,0.13
+India,electricity,wind,wind_offshore,2090,capital,330,0.13
+India,electricity,wind,wind_offshore,2095,capital,329,0.13
+India,electricity,wind,wind_offshore,2100,capital,328,0.13
+India,electricity,solar,PV,1975,capital,667,0.13
+India,electricity,solar,PV,1990,capital,667,0.13
+India,electricity,solar,PV,2005,capital,667,0.13
+India,electricity,solar,PV,2010,capital,667,0.13
+India,electricity,solar,PV,2015,capital,667,0.13
+India,electricity,solar,PV,2020,capital,402,0.13
+India,electricity,solar,PV,2025,capital,263,0.13
+India,electricity,solar,PV,2030,capital,189,0.13
+India,electricity,solar,PV,2035,capital,150,0.13
+India,electricity,solar,PV,2040,capital,130,0.13
+India,electricity,solar,PV,2045,capital,119,0.13
+India,electricity,solar,PV,2050,capital,113,0.13
+India,electricity,solar,PV,2055,capital,110,0.13
+India,electricity,solar,PV,2060,capital,108,0.13
+India,electricity,solar,PV,2065,capital,108,0.13
+India,electricity,solar,PV,2070,capital,107,0.13
+India,electricity,solar,PV,2075,capital,107,0.13
+India,electricity,solar,PV,2080,capital,107,0.13
+India,electricity,solar,PV,2085,capital,107,0.13
+India,electricity,solar,PV,2090,capital,107,0.13
+India,electricity,solar,PV,2095,capital,107,0.13
+India,electricity,solar,PV,2100,capital,107,0.13
+Indonesia,electricity,wind,wind,1975,capital,451,0.13
+Indonesia,electricity,wind,wind,1990,capital,451,0.13
+Indonesia,electricity,wind,wind,2005,capital,451,0.13
+Indonesia,electricity,wind,wind,2010,capital,451,0.13
+Indonesia,electricity,wind,wind,2015,capital,451,0.13
+Indonesia,electricity,wind,wind,2020,capital,387,0.13
+Indonesia,electricity,wind,wind,2025,capital,341,0.13
+Indonesia,electricity,wind,wind,2030,capital,306,0.13
+Indonesia,electricity,wind,wind,2035,capital,281,0.13
+Indonesia,electricity,wind,wind,2040,capital,263,0.13
+Indonesia,electricity,wind,wind,2045,capital,249,0.13
+Indonesia,electricity,wind,wind,2050,capital,239,0.13
+Indonesia,electricity,wind,wind,2055,capital,232,0.13
+Indonesia,electricity,wind,wind,2060,capital,227,0.13
+Indonesia,electricity,wind,wind,2065,capital,223,0.13
+Indonesia,electricity,wind,wind,2070,capital,220,0.13
+Indonesia,electricity,wind,wind,2075,capital,218,0.13
+Indonesia,electricity,wind,wind,2080,capital,216,0.13
+Indonesia,electricity,wind,wind,2085,capital,215,0.13
+Indonesia,electricity,wind,wind,2090,capital,214,0.13
+Indonesia,electricity,wind,wind,2095,capital,214,0.13
+Indonesia,electricity,wind,wind,2100,capital,213,0.13
+Indonesia,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Indonesia,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Indonesia,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Indonesia,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Indonesia,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Indonesia,electricity,wind,wind_offshore,2020,capital,886,0.13
+Indonesia,electricity,wind,wind_offshore,2025,capital,722,0.13
+Indonesia,electricity,wind,wind_offshore,2030,capital,606,0.13
+Indonesia,electricity,wind,wind_offshore,2035,capital,524,0.13
+Indonesia,electricity,wind,wind_offshore,2040,capital,466,0.13
+Indonesia,electricity,wind,wind_offshore,2045,capital,425,0.13
+Indonesia,electricity,wind,wind_offshore,2050,capital,396,0.13
+Indonesia,electricity,wind,wind_offshore,2055,capital,376,0.13
+Indonesia,electricity,wind,wind_offshore,2060,capital,361,0.13
+Indonesia,electricity,wind,wind_offshore,2065,capital,351,0.13
+Indonesia,electricity,wind,wind_offshore,2070,capital,343,0.13
+Indonesia,electricity,wind,wind_offshore,2075,capital,338,0.13
+Indonesia,electricity,wind,wind_offshore,2080,capital,335,0.13
+Indonesia,electricity,wind,wind_offshore,2085,capital,332,0.13
+Indonesia,electricity,wind,wind_offshore,2090,capital,330,0.13
+Indonesia,electricity,wind,wind_offshore,2095,capital,329,0.13
+Indonesia,electricity,wind,wind_offshore,2100,capital,328,0.13
+Indonesia,electricity,solar,PV,1975,capital,667,0.13
+Indonesia,electricity,solar,PV,1990,capital,667,0.13
+Indonesia,electricity,solar,PV,2005,capital,667,0.13
+Indonesia,electricity,solar,PV,2010,capital,667,0.13
+Indonesia,electricity,solar,PV,2015,capital,667,0.13
+Indonesia,electricity,solar,PV,2020,capital,402,0.13
+Indonesia,electricity,solar,PV,2025,capital,263,0.13
+Indonesia,electricity,solar,PV,2030,capital,189,0.13
+Indonesia,electricity,solar,PV,2035,capital,150,0.13
+Indonesia,electricity,solar,PV,2040,capital,130,0.13
+Indonesia,electricity,solar,PV,2045,capital,119,0.13
+Indonesia,electricity,solar,PV,2050,capital,113,0.13
+Indonesia,electricity,solar,PV,2055,capital,110,0.13
+Indonesia,electricity,solar,PV,2060,capital,108,0.13
+Indonesia,electricity,solar,PV,2065,capital,108,0.13
+Indonesia,electricity,solar,PV,2070,capital,107,0.13
+Indonesia,electricity,solar,PV,2075,capital,107,0.13
+Indonesia,electricity,solar,PV,2080,capital,107,0.13
+Indonesia,electricity,solar,PV,2085,capital,107,0.13
+Indonesia,electricity,solar,PV,2090,capital,107,0.13
+Indonesia,electricity,solar,PV,2095,capital,107,0.13
+Indonesia,electricity,solar,PV,2100,capital,107,0.13
+Japan,electricity,wind,wind,1975,capital,451,0.13
+Japan,electricity,wind,wind,1990,capital,451,0.13
+Japan,electricity,wind,wind,2005,capital,451,0.13
+Japan,electricity,wind,wind,2010,capital,451,0.13
+Japan,electricity,wind,wind,2015,capital,451,0.13
+Japan,electricity,wind,wind,2020,capital,387,0.13
+Japan,electricity,wind,wind,2025,capital,341,0.13
+Japan,electricity,wind,wind,2030,capital,306,0.13
+Japan,electricity,wind,wind,2035,capital,281,0.13
+Japan,electricity,wind,wind,2040,capital,263,0.13
+Japan,electricity,wind,wind,2045,capital,249,0.13
+Japan,electricity,wind,wind,2050,capital,239,0.13
+Japan,electricity,wind,wind,2055,capital,232,0.13
+Japan,electricity,wind,wind,2060,capital,227,0.13
+Japan,electricity,wind,wind,2065,capital,223,0.13
+Japan,electricity,wind,wind,2070,capital,220,0.13
+Japan,electricity,wind,wind,2075,capital,218,0.13
+Japan,electricity,wind,wind,2080,capital,216,0.13
+Japan,electricity,wind,wind,2085,capital,215,0.13
+Japan,electricity,wind,wind,2090,capital,214,0.13
+Japan,electricity,wind,wind,2095,capital,214,0.13
+Japan,electricity,wind,wind,2100,capital,213,0.13
+Japan,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Japan,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Japan,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Japan,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Japan,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Japan,electricity,wind,wind_offshore,2020,capital,886,0.13
+Japan,electricity,wind,wind_offshore,2025,capital,722,0.13
+Japan,electricity,wind,wind_offshore,2030,capital,606,0.13
+Japan,electricity,wind,wind_offshore,2035,capital,524,0.13
+Japan,electricity,wind,wind_offshore,2040,capital,466,0.13
+Japan,electricity,wind,wind_offshore,2045,capital,425,0.13
+Japan,electricity,wind,wind_offshore,2050,capital,396,0.13
+Japan,electricity,wind,wind_offshore,2055,capital,376,0.13
+Japan,electricity,wind,wind_offshore,2060,capital,361,0.13
+Japan,electricity,wind,wind_offshore,2065,capital,351,0.13
+Japan,electricity,wind,wind_offshore,2070,capital,343,0.13
+Japan,electricity,wind,wind_offshore,2075,capital,338,0.13
+Japan,electricity,wind,wind_offshore,2080,capital,335,0.13
+Japan,electricity,wind,wind_offshore,2085,capital,332,0.13
+Japan,electricity,wind,wind_offshore,2090,capital,330,0.13
+Japan,electricity,wind,wind_offshore,2095,capital,329,0.13
+Japan,electricity,wind,wind_offshore,2100,capital,328,0.13
+Japan,electricity,solar,PV,1975,capital,667,0.13
+Japan,electricity,solar,PV,1990,capital,667,0.13
+Japan,electricity,solar,PV,2005,capital,667,0.13
+Japan,electricity,solar,PV,2010,capital,667,0.13
+Japan,electricity,solar,PV,2015,capital,667,0.13
+Japan,electricity,solar,PV,2020,capital,402,0.13
+Japan,electricity,solar,PV,2025,capital,263,0.13
+Japan,electricity,solar,PV,2030,capital,189,0.13
+Japan,electricity,solar,PV,2035,capital,150,0.13
+Japan,electricity,solar,PV,2040,capital,130,0.13
+Japan,electricity,solar,PV,2045,capital,119,0.13
+Japan,electricity,solar,PV,2050,capital,113,0.13
+Japan,electricity,solar,PV,2055,capital,110,0.13
+Japan,electricity,solar,PV,2060,capital,108,0.13
+Japan,electricity,solar,PV,2065,capital,108,0.13
+Japan,electricity,solar,PV,2070,capital,107,0.13
+Japan,electricity,solar,PV,2075,capital,107,0.13
+Japan,electricity,solar,PV,2080,capital,107,0.13
+Japan,electricity,solar,PV,2085,capital,107,0.13
+Japan,electricity,solar,PV,2090,capital,107,0.13
+Japan,electricity,solar,PV,2095,capital,107,0.13
+Japan,electricity,solar,PV,2100,capital,107,0.13
+Mexico,electricity,wind,wind,1975,capital,451,0.13
+Mexico,electricity,wind,wind,1990,capital,451,0.13
+Mexico,electricity,wind,wind,2005,capital,451,0.13
+Mexico,electricity,wind,wind,2010,capital,451,0.13
+Mexico,electricity,wind,wind,2015,capital,451,0.13
+Mexico,electricity,wind,wind,2020,capital,387,0.13
+Mexico,electricity,wind,wind,2025,capital,341,0.13
+Mexico,electricity,wind,wind,2030,capital,306,0.13
+Mexico,electricity,wind,wind,2035,capital,281,0.13
+Mexico,electricity,wind,wind,2040,capital,263,0.13
+Mexico,electricity,wind,wind,2045,capital,249,0.13
+Mexico,electricity,wind,wind,2050,capital,239,0.13
+Mexico,electricity,wind,wind,2055,capital,232,0.13
+Mexico,electricity,wind,wind,2060,capital,227,0.13
+Mexico,electricity,wind,wind,2065,capital,223,0.13
+Mexico,electricity,wind,wind,2070,capital,220,0.13
+Mexico,electricity,wind,wind,2075,capital,218,0.13
+Mexico,electricity,wind,wind,2080,capital,216,0.13
+Mexico,electricity,wind,wind,2085,capital,215,0.13
+Mexico,electricity,wind,wind,2090,capital,214,0.13
+Mexico,electricity,wind,wind,2095,capital,214,0.13
+Mexico,electricity,wind,wind,2100,capital,213,0.13
+Mexico,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Mexico,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Mexico,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Mexico,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Mexico,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Mexico,electricity,wind,wind_offshore,2020,capital,886,0.13
+Mexico,electricity,wind,wind_offshore,2025,capital,722,0.13
+Mexico,electricity,wind,wind_offshore,2030,capital,606,0.13
+Mexico,electricity,wind,wind_offshore,2035,capital,524,0.13
+Mexico,electricity,wind,wind_offshore,2040,capital,466,0.13
+Mexico,electricity,wind,wind_offshore,2045,capital,425,0.13
+Mexico,electricity,wind,wind_offshore,2050,capital,396,0.13
+Mexico,electricity,wind,wind_offshore,2055,capital,376,0.13
+Mexico,electricity,wind,wind_offshore,2060,capital,361,0.13
+Mexico,electricity,wind,wind_offshore,2065,capital,351,0.13
+Mexico,electricity,wind,wind_offshore,2070,capital,343,0.13
+Mexico,electricity,wind,wind_offshore,2075,capital,338,0.13
+Mexico,electricity,wind,wind_offshore,2080,capital,335,0.13
+Mexico,electricity,wind,wind_offshore,2085,capital,332,0.13
+Mexico,electricity,wind,wind_offshore,2090,capital,330,0.13
+Mexico,electricity,wind,wind_offshore,2095,capital,329,0.13
+Mexico,electricity,wind,wind_offshore,2100,capital,328,0.13
+Mexico,electricity,solar,PV,1975,capital,667,0.13
+Mexico,electricity,solar,PV,1990,capital,667,0.13
+Mexico,electricity,solar,PV,2005,capital,667,0.13
+Mexico,electricity,solar,PV,2010,capital,667,0.13
+Mexico,electricity,solar,PV,2015,capital,667,0.13
+Mexico,electricity,solar,PV,2020,capital,402,0.13
+Mexico,electricity,solar,PV,2025,capital,263,0.13
+Mexico,electricity,solar,PV,2030,capital,189,0.13
+Mexico,electricity,solar,PV,2035,capital,150,0.13
+Mexico,electricity,solar,PV,2040,capital,130,0.13
+Mexico,electricity,solar,PV,2045,capital,119,0.13
+Mexico,electricity,solar,PV,2050,capital,113,0.13
+Mexico,electricity,solar,PV,2055,capital,110,0.13
+Mexico,electricity,solar,PV,2060,capital,108,0.13
+Mexico,electricity,solar,PV,2065,capital,108,0.13
+Mexico,electricity,solar,PV,2070,capital,107,0.13
+Mexico,electricity,solar,PV,2075,capital,107,0.13
+Mexico,electricity,solar,PV,2080,capital,107,0.13
+Mexico,electricity,solar,PV,2085,capital,107,0.13
+Mexico,electricity,solar,PV,2090,capital,107,0.13
+Mexico,electricity,solar,PV,2095,capital,107,0.13
+Mexico,electricity,solar,PV,2100,capital,107,0.13
+Middle East,electricity,wind,wind,1975,capital,451,0.13
+Middle East,electricity,wind,wind,1990,capital,451,0.13
+Middle East,electricity,wind,wind,2005,capital,451,0.13
+Middle East,electricity,wind,wind,2010,capital,451,0.13
+Middle East,electricity,wind,wind,2015,capital,451,0.13
+Middle East,electricity,wind,wind,2020,capital,387,0.13
+Middle East,electricity,wind,wind,2025,capital,341,0.13
+Middle East,electricity,wind,wind,2030,capital,306,0.13
+Middle East,electricity,wind,wind,2035,capital,281,0.13
+Middle East,electricity,wind,wind,2040,capital,263,0.13
+Middle East,electricity,wind,wind,2045,capital,249,0.13
+Middle East,electricity,wind,wind,2050,capital,239,0.13
+Middle East,electricity,wind,wind,2055,capital,232,0.13
+Middle East,electricity,wind,wind,2060,capital,227,0.13
+Middle East,electricity,wind,wind,2065,capital,223,0.13
+Middle East,electricity,wind,wind,2070,capital,220,0.13
+Middle East,electricity,wind,wind,2075,capital,218,0.13
+Middle East,electricity,wind,wind,2080,capital,216,0.13
+Middle East,electricity,wind,wind,2085,capital,215,0.13
+Middle East,electricity,wind,wind,2090,capital,214,0.13
+Middle East,electricity,wind,wind,2095,capital,214,0.13
+Middle East,electricity,wind,wind,2100,capital,213,0.13
+Middle East,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Middle East,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Middle East,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Middle East,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Middle East,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Middle East,electricity,wind,wind_offshore,2020,capital,886,0.13
+Middle East,electricity,wind,wind_offshore,2025,capital,722,0.13
+Middle East,electricity,wind,wind_offshore,2030,capital,606,0.13
+Middle East,electricity,wind,wind_offshore,2035,capital,524,0.13
+Middle East,electricity,wind,wind_offshore,2040,capital,466,0.13
+Middle East,electricity,wind,wind_offshore,2045,capital,425,0.13
+Middle East,electricity,wind,wind_offshore,2050,capital,396,0.13
+Middle East,electricity,wind,wind_offshore,2055,capital,376,0.13
+Middle East,electricity,wind,wind_offshore,2060,capital,361,0.13
+Middle East,electricity,wind,wind_offshore,2065,capital,351,0.13
+Middle East,electricity,wind,wind_offshore,2070,capital,343,0.13
+Middle East,electricity,wind,wind_offshore,2075,capital,338,0.13
+Middle East,electricity,wind,wind_offshore,2080,capital,335,0.13
+Middle East,electricity,wind,wind_offshore,2085,capital,332,0.13
+Middle East,electricity,wind,wind_offshore,2090,capital,330,0.13
+Middle East,electricity,wind,wind_offshore,2095,capital,329,0.13
+Middle East,electricity,wind,wind_offshore,2100,capital,328,0.13
+Middle East,electricity,solar,PV,1975,capital,667,0.13
+Middle East,electricity,solar,PV,1990,capital,667,0.13
+Middle East,electricity,solar,PV,2005,capital,667,0.13
+Middle East,electricity,solar,PV,2010,capital,667,0.13
+Middle East,electricity,solar,PV,2015,capital,667,0.13
+Middle East,electricity,solar,PV,2020,capital,402,0.13
+Middle East,electricity,solar,PV,2025,capital,263,0.13
+Middle East,electricity,solar,PV,2030,capital,189,0.13
+Middle East,electricity,solar,PV,2035,capital,150,0.13
+Middle East,electricity,solar,PV,2040,capital,130,0.13
+Middle East,electricity,solar,PV,2045,capital,119,0.13
+Middle East,electricity,solar,PV,2050,capital,113,0.13
+Middle East,electricity,solar,PV,2055,capital,110,0.13
+Middle East,electricity,solar,PV,2060,capital,108,0.13
+Middle East,electricity,solar,PV,2065,capital,108,0.13
+Middle East,electricity,solar,PV,2070,capital,107,0.13
+Middle East,electricity,solar,PV,2075,capital,107,0.13
+Middle East,electricity,solar,PV,2080,capital,107,0.13
+Middle East,electricity,solar,PV,2085,capital,107,0.13
+Middle East,electricity,solar,PV,2090,capital,107,0.13
+Middle East,electricity,solar,PV,2095,capital,107,0.13
+Middle East,electricity,solar,PV,2100,capital,107,0.13
+Pakistan,electricity,wind,wind,1975,capital,451,0.13
+Pakistan,electricity,wind,wind,1990,capital,451,0.13
+Pakistan,electricity,wind,wind,2005,capital,451,0.13
+Pakistan,electricity,wind,wind,2010,capital,451,0.13
+Pakistan,electricity,wind,wind,2015,capital,451,0.13
+Pakistan,electricity,wind,wind,2020,capital,387,0.13
+Pakistan,electricity,wind,wind,2025,capital,341,0.13
+Pakistan,electricity,wind,wind,2030,capital,306,0.13
+Pakistan,electricity,wind,wind,2035,capital,281,0.13
+Pakistan,electricity,wind,wind,2040,capital,263,0.13
+Pakistan,electricity,wind,wind,2045,capital,249,0.13
+Pakistan,electricity,wind,wind,2050,capital,239,0.13
+Pakistan,electricity,wind,wind,2055,capital,232,0.13
+Pakistan,electricity,wind,wind,2060,capital,227,0.13
+Pakistan,electricity,wind,wind,2065,capital,223,0.13
+Pakistan,electricity,wind,wind,2070,capital,220,0.13
+Pakistan,electricity,wind,wind,2075,capital,218,0.13
+Pakistan,electricity,wind,wind,2080,capital,216,0.13
+Pakistan,electricity,wind,wind,2085,capital,215,0.13
+Pakistan,electricity,wind,wind,2090,capital,214,0.13
+Pakistan,electricity,wind,wind,2095,capital,214,0.13
+Pakistan,electricity,wind,wind,2100,capital,213,0.13
+Pakistan,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Pakistan,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Pakistan,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Pakistan,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Pakistan,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Pakistan,electricity,wind,wind_offshore,2020,capital,886,0.13
+Pakistan,electricity,wind,wind_offshore,2025,capital,722,0.13
+Pakistan,electricity,wind,wind_offshore,2030,capital,606,0.13
+Pakistan,electricity,wind,wind_offshore,2035,capital,524,0.13
+Pakistan,electricity,wind,wind_offshore,2040,capital,466,0.13
+Pakistan,electricity,wind,wind_offshore,2045,capital,425,0.13
+Pakistan,electricity,wind,wind_offshore,2050,capital,396,0.13
+Pakistan,electricity,wind,wind_offshore,2055,capital,376,0.13
+Pakistan,electricity,wind,wind_offshore,2060,capital,361,0.13
+Pakistan,electricity,wind,wind_offshore,2065,capital,351,0.13
+Pakistan,electricity,wind,wind_offshore,2070,capital,343,0.13
+Pakistan,electricity,wind,wind_offshore,2075,capital,338,0.13
+Pakistan,electricity,wind,wind_offshore,2080,capital,335,0.13
+Pakistan,electricity,wind,wind_offshore,2085,capital,332,0.13
+Pakistan,electricity,wind,wind_offshore,2090,capital,330,0.13
+Pakistan,electricity,wind,wind_offshore,2095,capital,329,0.13
+Pakistan,electricity,wind,wind_offshore,2100,capital,328,0.13
+Pakistan,electricity,solar,PV,1975,capital,667,0.13
+Pakistan,electricity,solar,PV,1990,capital,667,0.13
+Pakistan,electricity,solar,PV,2005,capital,667,0.13
+Pakistan,electricity,solar,PV,2010,capital,667,0.13
+Pakistan,electricity,solar,PV,2015,capital,667,0.13
+Pakistan,electricity,solar,PV,2020,capital,402,0.13
+Pakistan,electricity,solar,PV,2025,capital,263,0.13
+Pakistan,electricity,solar,PV,2030,capital,189,0.13
+Pakistan,electricity,solar,PV,2035,capital,150,0.13
+Pakistan,electricity,solar,PV,2040,capital,130,0.13
+Pakistan,electricity,solar,PV,2045,capital,119,0.13
+Pakistan,electricity,solar,PV,2050,capital,113,0.13
+Pakistan,electricity,solar,PV,2055,capital,110,0.13
+Pakistan,electricity,solar,PV,2060,capital,108,0.13
+Pakistan,electricity,solar,PV,2065,capital,108,0.13
+Pakistan,electricity,solar,PV,2070,capital,107,0.13
+Pakistan,electricity,solar,PV,2075,capital,107,0.13
+Pakistan,electricity,solar,PV,2080,capital,107,0.13
+Pakistan,electricity,solar,PV,2085,capital,107,0.13
+Pakistan,electricity,solar,PV,2090,capital,107,0.13
+Pakistan,electricity,solar,PV,2095,capital,107,0.13
+Pakistan,electricity,solar,PV,2100,capital,107,0.13
+Russia,electricity,wind,wind,1975,capital,451,0.13
+Russia,electricity,wind,wind,1990,capital,451,0.13
+Russia,electricity,wind,wind,2005,capital,451,0.13
+Russia,electricity,wind,wind,2010,capital,451,0.13
+Russia,electricity,wind,wind,2015,capital,451,0.13
+Russia,electricity,wind,wind,2020,capital,387,0.13
+Russia,electricity,wind,wind,2025,capital,341,0.13
+Russia,electricity,wind,wind,2030,capital,306,0.13
+Russia,electricity,wind,wind,2035,capital,281,0.13
+Russia,electricity,wind,wind,2040,capital,263,0.13
+Russia,electricity,wind,wind,2045,capital,249,0.13
+Russia,electricity,wind,wind,2050,capital,239,0.13
+Russia,electricity,wind,wind,2055,capital,232,0.13
+Russia,electricity,wind,wind,2060,capital,227,0.13
+Russia,electricity,wind,wind,2065,capital,223,0.13
+Russia,electricity,wind,wind,2070,capital,220,0.13
+Russia,electricity,wind,wind,2075,capital,218,0.13
+Russia,electricity,wind,wind,2080,capital,216,0.13
+Russia,electricity,wind,wind,2085,capital,215,0.13
+Russia,electricity,wind,wind,2090,capital,214,0.13
+Russia,electricity,wind,wind,2095,capital,214,0.13
+Russia,electricity,wind,wind,2100,capital,213,0.13
+Russia,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Russia,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Russia,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Russia,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Russia,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Russia,electricity,wind,wind_offshore,2020,capital,886,0.13
+Russia,electricity,wind,wind_offshore,2025,capital,722,0.13
+Russia,electricity,wind,wind_offshore,2030,capital,606,0.13
+Russia,electricity,wind,wind_offshore,2035,capital,524,0.13
+Russia,electricity,wind,wind_offshore,2040,capital,466,0.13
+Russia,electricity,wind,wind_offshore,2045,capital,425,0.13
+Russia,electricity,wind,wind_offshore,2050,capital,396,0.13
+Russia,electricity,wind,wind_offshore,2055,capital,376,0.13
+Russia,electricity,wind,wind_offshore,2060,capital,361,0.13
+Russia,electricity,wind,wind_offshore,2065,capital,351,0.13
+Russia,electricity,wind,wind_offshore,2070,capital,343,0.13
+Russia,electricity,wind,wind_offshore,2075,capital,338,0.13
+Russia,electricity,wind,wind_offshore,2080,capital,335,0.13
+Russia,electricity,wind,wind_offshore,2085,capital,332,0.13
+Russia,electricity,wind,wind_offshore,2090,capital,330,0.13
+Russia,electricity,wind,wind_offshore,2095,capital,329,0.13
+Russia,electricity,wind,wind_offshore,2100,capital,328,0.13
+Russia,electricity,solar,PV,1975,capital,667,0.13
+Russia,electricity,solar,PV,1990,capital,667,0.13
+Russia,electricity,solar,PV,2005,capital,667,0.13
+Russia,electricity,solar,PV,2010,capital,667,0.13
+Russia,electricity,solar,PV,2015,capital,667,0.13
+Russia,electricity,solar,PV,2020,capital,402,0.13
+Russia,electricity,solar,PV,2025,capital,263,0.13
+Russia,electricity,solar,PV,2030,capital,189,0.13
+Russia,electricity,solar,PV,2035,capital,150,0.13
+Russia,electricity,solar,PV,2040,capital,130,0.13
+Russia,electricity,solar,PV,2045,capital,119,0.13
+Russia,electricity,solar,PV,2050,capital,113,0.13
+Russia,electricity,solar,PV,2055,capital,110,0.13
+Russia,electricity,solar,PV,2060,capital,108,0.13
+Russia,electricity,solar,PV,2065,capital,108,0.13
+Russia,electricity,solar,PV,2070,capital,107,0.13
+Russia,electricity,solar,PV,2075,capital,107,0.13
+Russia,electricity,solar,PV,2080,capital,107,0.13
+Russia,electricity,solar,PV,2085,capital,107,0.13
+Russia,electricity,solar,PV,2090,capital,107,0.13
+Russia,electricity,solar,PV,2095,capital,107,0.13
+Russia,electricity,solar,PV,2100,capital,107,0.13
+South Africa,electricity,wind,wind,1975,capital,451,0.13
+South Africa,electricity,wind,wind,1990,capital,451,0.13
+South Africa,electricity,wind,wind,2005,capital,451,0.13
+South Africa,electricity,wind,wind,2010,capital,451,0.13
+South Africa,electricity,wind,wind,2015,capital,451,0.13
+South Africa,electricity,wind,wind,2020,capital,387,0.13
+South Africa,electricity,wind,wind,2025,capital,341,0.13
+South Africa,electricity,wind,wind,2030,capital,306,0.13
+South Africa,electricity,wind,wind,2035,capital,281,0.13
+South Africa,electricity,wind,wind,2040,capital,263,0.13
+South Africa,electricity,wind,wind,2045,capital,249,0.13
+South Africa,electricity,wind,wind,2050,capital,239,0.13
+South Africa,electricity,wind,wind,2055,capital,232,0.13
+South Africa,electricity,wind,wind,2060,capital,227,0.13
+South Africa,electricity,wind,wind,2065,capital,223,0.13
+South Africa,electricity,wind,wind,2070,capital,220,0.13
+South Africa,electricity,wind,wind,2075,capital,218,0.13
+South Africa,electricity,wind,wind,2080,capital,216,0.13
+South Africa,electricity,wind,wind,2085,capital,215,0.13
+South Africa,electricity,wind,wind,2090,capital,214,0.13
+South Africa,electricity,wind,wind,2095,capital,214,0.13
+South Africa,electricity,wind,wind,2100,capital,213,0.13
+South Africa,electricity,wind,wind_offshore,1975,capital,1118,0.13
+South Africa,electricity,wind,wind_offshore,1990,capital,1118,0.13
+South Africa,electricity,wind,wind_offshore,2005,capital,1118,0.13
+South Africa,electricity,wind,wind_offshore,2010,capital,1118,0.13
+South Africa,electricity,wind,wind_offshore,2015,capital,1118,0.13
+South Africa,electricity,wind,wind_offshore,2020,capital,886,0.13
+South Africa,electricity,wind,wind_offshore,2025,capital,722,0.13
+South Africa,electricity,wind,wind_offshore,2030,capital,606,0.13
+South Africa,electricity,wind,wind_offshore,2035,capital,524,0.13
+South Africa,electricity,wind,wind_offshore,2040,capital,466,0.13
+South Africa,electricity,wind,wind_offshore,2045,capital,425,0.13
+South Africa,electricity,wind,wind_offshore,2050,capital,396,0.13
+South Africa,electricity,wind,wind_offshore,2055,capital,376,0.13
+South Africa,electricity,wind,wind_offshore,2060,capital,361,0.13
+South Africa,electricity,wind,wind_offshore,2065,capital,351,0.13
+South Africa,electricity,wind,wind_offshore,2070,capital,343,0.13
+South Africa,electricity,wind,wind_offshore,2075,capital,338,0.13
+South Africa,electricity,wind,wind_offshore,2080,capital,335,0.13
+South Africa,electricity,wind,wind_offshore,2085,capital,332,0.13
+South Africa,electricity,wind,wind_offshore,2090,capital,330,0.13
+South Africa,electricity,wind,wind_offshore,2095,capital,329,0.13
+South Africa,electricity,wind,wind_offshore,2100,capital,328,0.13
+South Africa,electricity,solar,PV,1975,capital,667,0.13
+South Africa,electricity,solar,PV,1990,capital,667,0.13
+South Africa,electricity,solar,PV,2005,capital,667,0.13
+South Africa,electricity,solar,PV,2010,capital,667,0.13
+South Africa,electricity,solar,PV,2015,capital,667,0.13
+South Africa,electricity,solar,PV,2020,capital,402,0.13
+South Africa,electricity,solar,PV,2025,capital,263,0.13
+South Africa,electricity,solar,PV,2030,capital,189,0.13
+South Africa,electricity,solar,PV,2035,capital,150,0.13
+South Africa,electricity,solar,PV,2040,capital,130,0.13
+South Africa,electricity,solar,PV,2045,capital,119,0.13
+South Africa,electricity,solar,PV,2050,capital,113,0.13
+South Africa,electricity,solar,PV,2055,capital,110,0.13
+South Africa,electricity,solar,PV,2060,capital,108,0.13
+South Africa,electricity,solar,PV,2065,capital,108,0.13
+South Africa,electricity,solar,PV,2070,capital,107,0.13
+South Africa,electricity,solar,PV,2075,capital,107,0.13
+South Africa,electricity,solar,PV,2080,capital,107,0.13
+South Africa,electricity,solar,PV,2085,capital,107,0.13
+South Africa,electricity,solar,PV,2090,capital,107,0.13
+South Africa,electricity,solar,PV,2095,capital,107,0.13
+South Africa,electricity,solar,PV,2100,capital,107,0.13
+South America_Northern,electricity,wind,wind,1975,capital,451,0.13
+South America_Northern,electricity,wind,wind,1990,capital,451,0.13
+South America_Northern,electricity,wind,wind,2005,capital,451,0.13
+South America_Northern,electricity,wind,wind,2010,capital,451,0.13
+South America_Northern,electricity,wind,wind,2015,capital,451,0.13
+South America_Northern,electricity,wind,wind,2020,capital,387,0.13
+South America_Northern,electricity,wind,wind,2025,capital,341,0.13
+South America_Northern,electricity,wind,wind,2030,capital,306,0.13
+South America_Northern,electricity,wind,wind,2035,capital,281,0.13
+South America_Northern,electricity,wind,wind,2040,capital,263,0.13
+South America_Northern,electricity,wind,wind,2045,capital,249,0.13
+South America_Northern,electricity,wind,wind,2050,capital,239,0.13
+South America_Northern,electricity,wind,wind,2055,capital,232,0.13
+South America_Northern,electricity,wind,wind,2060,capital,227,0.13
+South America_Northern,electricity,wind,wind,2065,capital,223,0.13
+South America_Northern,electricity,wind,wind,2070,capital,220,0.13
+South America_Northern,electricity,wind,wind,2075,capital,218,0.13
+South America_Northern,electricity,wind,wind,2080,capital,216,0.13
+South America_Northern,electricity,wind,wind,2085,capital,215,0.13
+South America_Northern,electricity,wind,wind,2090,capital,214,0.13
+South America_Northern,electricity,wind,wind,2095,capital,214,0.13
+South America_Northern,electricity,wind,wind,2100,capital,213,0.13
+South America_Northern,electricity,wind,wind_offshore,1975,capital,1118,0.13
+South America_Northern,electricity,wind,wind_offshore,1990,capital,1118,0.13
+South America_Northern,electricity,wind,wind_offshore,2005,capital,1118,0.13
+South America_Northern,electricity,wind,wind_offshore,2010,capital,1118,0.13
+South America_Northern,electricity,wind,wind_offshore,2015,capital,1118,0.13
+South America_Northern,electricity,wind,wind_offshore,2020,capital,886,0.13
+South America_Northern,electricity,wind,wind_offshore,2025,capital,722,0.13
+South America_Northern,electricity,wind,wind_offshore,2030,capital,606,0.13
+South America_Northern,electricity,wind,wind_offshore,2035,capital,524,0.13
+South America_Northern,electricity,wind,wind_offshore,2040,capital,466,0.13
+South America_Northern,electricity,wind,wind_offshore,2045,capital,425,0.13
+South America_Northern,electricity,wind,wind_offshore,2050,capital,396,0.13
+South America_Northern,electricity,wind,wind_offshore,2055,capital,376,0.13
+South America_Northern,electricity,wind,wind_offshore,2060,capital,361,0.13
+South America_Northern,electricity,wind,wind_offshore,2065,capital,351,0.13
+South America_Northern,electricity,wind,wind_offshore,2070,capital,343,0.13
+South America_Northern,electricity,wind,wind_offshore,2075,capital,338,0.13
+South America_Northern,electricity,wind,wind_offshore,2080,capital,335,0.13
+South America_Northern,electricity,wind,wind_offshore,2085,capital,332,0.13
+South America_Northern,electricity,wind,wind_offshore,2090,capital,330,0.13
+South America_Northern,electricity,wind,wind_offshore,2095,capital,329,0.13
+South America_Northern,electricity,wind,wind_offshore,2100,capital,328,0.13
+South America_Northern,electricity,solar,PV,1975,capital,667,0.13
+South America_Northern,electricity,solar,PV,1990,capital,667,0.13
+South America_Northern,electricity,solar,PV,2005,capital,667,0.13
+South America_Northern,electricity,solar,PV,2010,capital,667,0.13
+South America_Northern,electricity,solar,PV,2015,capital,667,0.13
+South America_Northern,electricity,solar,PV,2020,capital,402,0.13
+South America_Northern,electricity,solar,PV,2025,capital,263,0.13
+South America_Northern,electricity,solar,PV,2030,capital,189,0.13
+South America_Northern,electricity,solar,PV,2035,capital,150,0.13
+South America_Northern,electricity,solar,PV,2040,capital,130,0.13
+South America_Northern,electricity,solar,PV,2045,capital,119,0.13
+South America_Northern,electricity,solar,PV,2050,capital,113,0.13
+South America_Northern,electricity,solar,PV,2055,capital,110,0.13
+South America_Northern,electricity,solar,PV,2060,capital,108,0.13
+South America_Northern,electricity,solar,PV,2065,capital,108,0.13
+South America_Northern,electricity,solar,PV,2070,capital,107,0.13
+South America_Northern,electricity,solar,PV,2075,capital,107,0.13
+South America_Northern,electricity,solar,PV,2080,capital,107,0.13
+South America_Northern,electricity,solar,PV,2085,capital,107,0.13
+South America_Northern,electricity,solar,PV,2090,capital,107,0.13
+South America_Northern,electricity,solar,PV,2095,capital,107,0.13
+South America_Northern,electricity,solar,PV,2100,capital,107,0.13
+South America_Southern,electricity,wind,wind,1975,capital,451,0.13
+South America_Southern,electricity,wind,wind,1990,capital,451,0.13
+South America_Southern,electricity,wind,wind,2005,capital,451,0.13
+South America_Southern,electricity,wind,wind,2010,capital,451,0.13
+South America_Southern,electricity,wind,wind,2015,capital,451,0.13
+South America_Southern,electricity,wind,wind,2020,capital,387,0.13
+South America_Southern,electricity,wind,wind,2025,capital,341,0.13
+South America_Southern,electricity,wind,wind,2030,capital,306,0.13
+South America_Southern,electricity,wind,wind,2035,capital,281,0.13
+South America_Southern,electricity,wind,wind,2040,capital,263,0.13
+South America_Southern,electricity,wind,wind,2045,capital,249,0.13
+South America_Southern,electricity,wind,wind,2050,capital,239,0.13
+South America_Southern,electricity,wind,wind,2055,capital,232,0.13
+South America_Southern,electricity,wind,wind,2060,capital,227,0.13
+South America_Southern,electricity,wind,wind,2065,capital,223,0.13
+South America_Southern,electricity,wind,wind,2070,capital,220,0.13
+South America_Southern,electricity,wind,wind,2075,capital,218,0.13
+South America_Southern,electricity,wind,wind,2080,capital,216,0.13
+South America_Southern,electricity,wind,wind,2085,capital,215,0.13
+South America_Southern,electricity,wind,wind,2090,capital,214,0.13
+South America_Southern,electricity,wind,wind,2095,capital,214,0.13
+South America_Southern,electricity,wind,wind,2100,capital,213,0.13
+South America_Southern,electricity,wind,wind_offshore,1975,capital,1118,0.13
+South America_Southern,electricity,wind,wind_offshore,1990,capital,1118,0.13
+South America_Southern,electricity,wind,wind_offshore,2005,capital,1118,0.13
+South America_Southern,electricity,wind,wind_offshore,2010,capital,1118,0.13
+South America_Southern,electricity,wind,wind_offshore,2015,capital,1118,0.13
+South America_Southern,electricity,wind,wind_offshore,2020,capital,886,0.13
+South America_Southern,electricity,wind,wind_offshore,2025,capital,722,0.13
+South America_Southern,electricity,wind,wind_offshore,2030,capital,606,0.13
+South America_Southern,electricity,wind,wind_offshore,2035,capital,524,0.13
+South America_Southern,electricity,wind,wind_offshore,2040,capital,466,0.13
+South America_Southern,electricity,wind,wind_offshore,2045,capital,425,0.13
+South America_Southern,electricity,wind,wind_offshore,2050,capital,396,0.13
+South America_Southern,electricity,wind,wind_offshore,2055,capital,376,0.13
+South America_Southern,electricity,wind,wind_offshore,2060,capital,361,0.13
+South America_Southern,electricity,wind,wind_offshore,2065,capital,351,0.13
+South America_Southern,electricity,wind,wind_offshore,2070,capital,343,0.13
+South America_Southern,electricity,wind,wind_offshore,2075,capital,338,0.13
+South America_Southern,electricity,wind,wind_offshore,2080,capital,335,0.13
+South America_Southern,electricity,wind,wind_offshore,2085,capital,332,0.13
+South America_Southern,electricity,wind,wind_offshore,2090,capital,330,0.13
+South America_Southern,electricity,wind,wind_offshore,2095,capital,329,0.13
+South America_Southern,electricity,wind,wind_offshore,2100,capital,328,0.13
+South America_Southern,electricity,solar,PV,1975,capital,667,0.13
+South America_Southern,electricity,solar,PV,1990,capital,667,0.13
+South America_Southern,electricity,solar,PV,2005,capital,667,0.13
+South America_Southern,electricity,solar,PV,2010,capital,667,0.13
+South America_Southern,electricity,solar,PV,2015,capital,667,0.13
+South America_Southern,electricity,solar,PV,2020,capital,402,0.13
+South America_Southern,electricity,solar,PV,2025,capital,263,0.13
+South America_Southern,electricity,solar,PV,2030,capital,189,0.13
+South America_Southern,electricity,solar,PV,2035,capital,150,0.13
+South America_Southern,electricity,solar,PV,2040,capital,130,0.13
+South America_Southern,electricity,solar,PV,2045,capital,119,0.13
+South America_Southern,electricity,solar,PV,2050,capital,113,0.13
+South America_Southern,electricity,solar,PV,2055,capital,110,0.13
+South America_Southern,electricity,solar,PV,2060,capital,108,0.13
+South America_Southern,electricity,solar,PV,2065,capital,108,0.13
+South America_Southern,electricity,solar,PV,2070,capital,107,0.13
+South America_Southern,electricity,solar,PV,2075,capital,107,0.13
+South America_Southern,electricity,solar,PV,2080,capital,107,0.13
+South America_Southern,electricity,solar,PV,2085,capital,107,0.13
+South America_Southern,electricity,solar,PV,2090,capital,107,0.13
+South America_Southern,electricity,solar,PV,2095,capital,107,0.13
+South America_Southern,electricity,solar,PV,2100,capital,107,0.13
+South Asia,electricity,wind,wind,1975,capital,451,0.13
+South Asia,electricity,wind,wind,1990,capital,451,0.13
+South Asia,electricity,wind,wind,2005,capital,451,0.13
+South Asia,electricity,wind,wind,2010,capital,451,0.13
+South Asia,electricity,wind,wind,2015,capital,451,0.13
+South Asia,electricity,wind,wind,2020,capital,387,0.13
+South Asia,electricity,wind,wind,2025,capital,341,0.13
+South Asia,electricity,wind,wind,2030,capital,306,0.13
+South Asia,electricity,wind,wind,2035,capital,281,0.13
+South Asia,electricity,wind,wind,2040,capital,263,0.13
+South Asia,electricity,wind,wind,2045,capital,249,0.13
+South Asia,electricity,wind,wind,2050,capital,239,0.13
+South Asia,electricity,wind,wind,2055,capital,232,0.13
+South Asia,electricity,wind,wind,2060,capital,227,0.13
+South Asia,electricity,wind,wind,2065,capital,223,0.13
+South Asia,electricity,wind,wind,2070,capital,220,0.13
+South Asia,electricity,wind,wind,2075,capital,218,0.13
+South Asia,electricity,wind,wind,2080,capital,216,0.13
+South Asia,electricity,wind,wind,2085,capital,215,0.13
+South Asia,electricity,wind,wind,2090,capital,214,0.13
+South Asia,electricity,wind,wind,2095,capital,214,0.13
+South Asia,electricity,wind,wind,2100,capital,213,0.13
+South Asia,electricity,wind,wind_offshore,1975,capital,1118,0.13
+South Asia,electricity,wind,wind_offshore,1990,capital,1118,0.13
+South Asia,electricity,wind,wind_offshore,2005,capital,1118,0.13
+South Asia,electricity,wind,wind_offshore,2010,capital,1118,0.13
+South Asia,electricity,wind,wind_offshore,2015,capital,1118,0.13
+South Asia,electricity,wind,wind_offshore,2020,capital,886,0.13
+South Asia,electricity,wind,wind_offshore,2025,capital,722,0.13
+South Asia,electricity,wind,wind_offshore,2030,capital,606,0.13
+South Asia,electricity,wind,wind_offshore,2035,capital,524,0.13
+South Asia,electricity,wind,wind_offshore,2040,capital,466,0.13
+South Asia,electricity,wind,wind_offshore,2045,capital,425,0.13
+South Asia,electricity,wind,wind_offshore,2050,capital,396,0.13
+South Asia,electricity,wind,wind_offshore,2055,capital,376,0.13
+South Asia,electricity,wind,wind_offshore,2060,capital,361,0.13
+South Asia,electricity,wind,wind_offshore,2065,capital,351,0.13
+South Asia,electricity,wind,wind_offshore,2070,capital,343,0.13
+South Asia,electricity,wind,wind_offshore,2075,capital,338,0.13
+South Asia,electricity,wind,wind_offshore,2080,capital,335,0.13
+South Asia,electricity,wind,wind_offshore,2085,capital,332,0.13
+South Asia,electricity,wind,wind_offshore,2090,capital,330,0.13
+South Asia,electricity,wind,wind_offshore,2095,capital,329,0.13
+South Asia,electricity,wind,wind_offshore,2100,capital,328,0.13
+South Asia,electricity,solar,PV,1975,capital,667,0.13
+South Asia,electricity,solar,PV,1990,capital,667,0.13
+South Asia,electricity,solar,PV,2005,capital,667,0.13
+South Asia,electricity,solar,PV,2010,capital,667,0.13
+South Asia,electricity,solar,PV,2015,capital,667,0.13
+South Asia,electricity,solar,PV,2020,capital,402,0.13
+South Asia,electricity,solar,PV,2025,capital,263,0.13
+South Asia,electricity,solar,PV,2030,capital,189,0.13
+South Asia,electricity,solar,PV,2035,capital,150,0.13
+South Asia,electricity,solar,PV,2040,capital,130,0.13
+South Asia,electricity,solar,PV,2045,capital,119,0.13
+South Asia,electricity,solar,PV,2050,capital,113,0.13
+South Asia,electricity,solar,PV,2055,capital,110,0.13
+South Asia,electricity,solar,PV,2060,capital,108,0.13
+South Asia,electricity,solar,PV,2065,capital,108,0.13
+South Asia,electricity,solar,PV,2070,capital,107,0.13
+South Asia,electricity,solar,PV,2075,capital,107,0.13
+South Asia,electricity,solar,PV,2080,capital,107,0.13
+South Asia,electricity,solar,PV,2085,capital,107,0.13
+South Asia,electricity,solar,PV,2090,capital,107,0.13
+South Asia,electricity,solar,PV,2095,capital,107,0.13
+South Asia,electricity,solar,PV,2100,capital,107,0.13
+South Korea,electricity,wind,wind,1975,capital,451,0.13
+South Korea,electricity,wind,wind,1990,capital,451,0.13
+South Korea,electricity,wind,wind,2005,capital,451,0.13
+South Korea,electricity,wind,wind,2010,capital,451,0.13
+South Korea,electricity,wind,wind,2015,capital,451,0.13
+South Korea,electricity,wind,wind,2020,capital,387,0.13
+South Korea,electricity,wind,wind,2025,capital,341,0.13
+South Korea,electricity,wind,wind,2030,capital,306,0.13
+South Korea,electricity,wind,wind,2035,capital,281,0.13
+South Korea,electricity,wind,wind,2040,capital,263,0.13
+South Korea,electricity,wind,wind,2045,capital,249,0.13
+South Korea,electricity,wind,wind,2050,capital,239,0.13
+South Korea,electricity,wind,wind,2055,capital,232,0.13
+South Korea,electricity,wind,wind,2060,capital,227,0.13
+South Korea,electricity,wind,wind,2065,capital,223,0.13
+South Korea,electricity,wind,wind,2070,capital,220,0.13
+South Korea,electricity,wind,wind,2075,capital,218,0.13
+South Korea,electricity,wind,wind,2080,capital,216,0.13
+South Korea,electricity,wind,wind,2085,capital,215,0.13
+South Korea,electricity,wind,wind,2090,capital,214,0.13
+South Korea,electricity,wind,wind,2095,capital,214,0.13
+South Korea,electricity,wind,wind,2100,capital,213,0.13
+South Korea,electricity,wind,wind_offshore,1975,capital,1118,0.13
+South Korea,electricity,wind,wind_offshore,1990,capital,1118,0.13
+South Korea,electricity,wind,wind_offshore,2005,capital,1118,0.13
+South Korea,electricity,wind,wind_offshore,2010,capital,1118,0.13
+South Korea,electricity,wind,wind_offshore,2015,capital,1118,0.13
+South Korea,electricity,wind,wind_offshore,2020,capital,886,0.13
+South Korea,electricity,wind,wind_offshore,2025,capital,722,0.13
+South Korea,electricity,wind,wind_offshore,2030,capital,606,0.13
+South Korea,electricity,wind,wind_offshore,2035,capital,524,0.13
+South Korea,electricity,wind,wind_offshore,2040,capital,466,0.13
+South Korea,electricity,wind,wind_offshore,2045,capital,425,0.13
+South Korea,electricity,wind,wind_offshore,2050,capital,396,0.13
+South Korea,electricity,wind,wind_offshore,2055,capital,376,0.13
+South Korea,electricity,wind,wind_offshore,2060,capital,361,0.13
+South Korea,electricity,wind,wind_offshore,2065,capital,351,0.13
+South Korea,electricity,wind,wind_offshore,2070,capital,343,0.13
+South Korea,electricity,wind,wind_offshore,2075,capital,338,0.13
+South Korea,electricity,wind,wind_offshore,2080,capital,335,0.13
+South Korea,electricity,wind,wind_offshore,2085,capital,332,0.13
+South Korea,electricity,wind,wind_offshore,2090,capital,330,0.13
+South Korea,electricity,wind,wind_offshore,2095,capital,329,0.13
+South Korea,electricity,wind,wind_offshore,2100,capital,328,0.13
+South Korea,electricity,solar,PV,1975,capital,667,0.13
+South Korea,electricity,solar,PV,1990,capital,667,0.13
+South Korea,electricity,solar,PV,2005,capital,667,0.13
+South Korea,electricity,solar,PV,2010,capital,667,0.13
+South Korea,electricity,solar,PV,2015,capital,667,0.13
+South Korea,electricity,solar,PV,2020,capital,402,0.13
+South Korea,electricity,solar,PV,2025,capital,263,0.13
+South Korea,electricity,solar,PV,2030,capital,189,0.13
+South Korea,electricity,solar,PV,2035,capital,150,0.13
+South Korea,electricity,solar,PV,2040,capital,130,0.13
+South Korea,electricity,solar,PV,2045,capital,119,0.13
+South Korea,electricity,solar,PV,2050,capital,113,0.13
+South Korea,electricity,solar,PV,2055,capital,110,0.13
+South Korea,electricity,solar,PV,2060,capital,108,0.13
+South Korea,electricity,solar,PV,2065,capital,108,0.13
+South Korea,electricity,solar,PV,2070,capital,107,0.13
+South Korea,electricity,solar,PV,2075,capital,107,0.13
+South Korea,electricity,solar,PV,2080,capital,107,0.13
+South Korea,electricity,solar,PV,2085,capital,107,0.13
+South Korea,electricity,solar,PV,2090,capital,107,0.13
+South Korea,electricity,solar,PV,2095,capital,107,0.13
+South Korea,electricity,solar,PV,2100,capital,107,0.13
+Southeast Asia,electricity,wind,wind,1975,capital,451,0.13
+Southeast Asia,electricity,wind,wind,1990,capital,451,0.13
+Southeast Asia,electricity,wind,wind,2005,capital,451,0.13
+Southeast Asia,electricity,wind,wind,2010,capital,451,0.13
+Southeast Asia,electricity,wind,wind,2015,capital,451,0.13
+Southeast Asia,electricity,wind,wind,2020,capital,387,0.13
+Southeast Asia,electricity,wind,wind,2025,capital,341,0.13
+Southeast Asia,electricity,wind,wind,2030,capital,306,0.13
+Southeast Asia,electricity,wind,wind,2035,capital,281,0.13
+Southeast Asia,electricity,wind,wind,2040,capital,263,0.13
+Southeast Asia,electricity,wind,wind,2045,capital,249,0.13
+Southeast Asia,electricity,wind,wind,2050,capital,239,0.13
+Southeast Asia,electricity,wind,wind,2055,capital,232,0.13
+Southeast Asia,electricity,wind,wind,2060,capital,227,0.13
+Southeast Asia,electricity,wind,wind,2065,capital,223,0.13
+Southeast Asia,electricity,wind,wind,2070,capital,220,0.13
+Southeast Asia,electricity,wind,wind,2075,capital,218,0.13
+Southeast Asia,electricity,wind,wind,2080,capital,216,0.13
+Southeast Asia,electricity,wind,wind,2085,capital,215,0.13
+Southeast Asia,electricity,wind,wind,2090,capital,214,0.13
+Southeast Asia,electricity,wind,wind,2095,capital,214,0.13
+Southeast Asia,electricity,wind,wind,2100,capital,213,0.13
+Southeast Asia,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Southeast Asia,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Southeast Asia,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Southeast Asia,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Southeast Asia,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Southeast Asia,electricity,wind,wind_offshore,2020,capital,886,0.13
+Southeast Asia,electricity,wind,wind_offshore,2025,capital,722,0.13
+Southeast Asia,electricity,wind,wind_offshore,2030,capital,606,0.13
+Southeast Asia,electricity,wind,wind_offshore,2035,capital,524,0.13
+Southeast Asia,electricity,wind,wind_offshore,2040,capital,466,0.13
+Southeast Asia,electricity,wind,wind_offshore,2045,capital,425,0.13
+Southeast Asia,electricity,wind,wind_offshore,2050,capital,396,0.13
+Southeast Asia,electricity,wind,wind_offshore,2055,capital,376,0.13
+Southeast Asia,electricity,wind,wind_offshore,2060,capital,361,0.13
+Southeast Asia,electricity,wind,wind_offshore,2065,capital,351,0.13
+Southeast Asia,electricity,wind,wind_offshore,2070,capital,343,0.13
+Southeast Asia,electricity,wind,wind_offshore,2075,capital,338,0.13
+Southeast Asia,electricity,wind,wind_offshore,2080,capital,335,0.13
+Southeast Asia,electricity,wind,wind_offshore,2085,capital,332,0.13
+Southeast Asia,electricity,wind,wind_offshore,2090,capital,330,0.13
+Southeast Asia,electricity,wind,wind_offshore,2095,capital,329,0.13
+Southeast Asia,electricity,wind,wind_offshore,2100,capital,328,0.13
+Southeast Asia,electricity,solar,PV,1975,capital,667,0.13
+Southeast Asia,electricity,solar,PV,1990,capital,667,0.13
+Southeast Asia,electricity,solar,PV,2005,capital,667,0.13
+Southeast Asia,electricity,solar,PV,2010,capital,667,0.13
+Southeast Asia,electricity,solar,PV,2015,capital,667,0.13
+Southeast Asia,electricity,solar,PV,2020,capital,402,0.13
+Southeast Asia,electricity,solar,PV,2025,capital,263,0.13
+Southeast Asia,electricity,solar,PV,2030,capital,189,0.13
+Southeast Asia,electricity,solar,PV,2035,capital,150,0.13
+Southeast Asia,electricity,solar,PV,2040,capital,130,0.13
+Southeast Asia,electricity,solar,PV,2045,capital,119,0.13
+Southeast Asia,electricity,solar,PV,2050,capital,113,0.13
+Southeast Asia,electricity,solar,PV,2055,capital,110,0.13
+Southeast Asia,electricity,solar,PV,2060,capital,108,0.13
+Southeast Asia,electricity,solar,PV,2065,capital,108,0.13
+Southeast Asia,electricity,solar,PV,2070,capital,107,0.13
+Southeast Asia,electricity,solar,PV,2075,capital,107,0.13
+Southeast Asia,electricity,solar,PV,2080,capital,107,0.13
+Southeast Asia,electricity,solar,PV,2085,capital,107,0.13
+Southeast Asia,electricity,solar,PV,2090,capital,107,0.13
+Southeast Asia,electricity,solar,PV,2095,capital,107,0.13
+Southeast Asia,electricity,solar,PV,2100,capital,107,0.13
+Taiwan,electricity,wind,wind,1975,capital,451,0.13
+Taiwan,electricity,wind,wind,1990,capital,451,0.13
+Taiwan,electricity,wind,wind,2005,capital,451,0.13
+Taiwan,electricity,wind,wind,2010,capital,451,0.13
+Taiwan,electricity,wind,wind,2015,capital,451,0.13
+Taiwan,electricity,wind,wind,2020,capital,387,0.13
+Taiwan,electricity,wind,wind,2025,capital,341,0.13
+Taiwan,electricity,wind,wind,2030,capital,306,0.13
+Taiwan,electricity,wind,wind,2035,capital,281,0.13
+Taiwan,electricity,wind,wind,2040,capital,263,0.13
+Taiwan,electricity,wind,wind,2045,capital,249,0.13
+Taiwan,electricity,wind,wind,2050,capital,239,0.13
+Taiwan,electricity,wind,wind,2055,capital,232,0.13
+Taiwan,electricity,wind,wind,2060,capital,227,0.13
+Taiwan,electricity,wind,wind,2065,capital,223,0.13
+Taiwan,electricity,wind,wind,2070,capital,220,0.13
+Taiwan,electricity,wind,wind,2075,capital,218,0.13
+Taiwan,electricity,wind,wind,2080,capital,216,0.13
+Taiwan,electricity,wind,wind,2085,capital,215,0.13
+Taiwan,electricity,wind,wind,2090,capital,214,0.13
+Taiwan,electricity,wind,wind,2095,capital,214,0.13
+Taiwan,electricity,wind,wind,2100,capital,213,0.13
+Taiwan,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Taiwan,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Taiwan,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Taiwan,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Taiwan,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Taiwan,electricity,wind,wind_offshore,2020,capital,886,0.13
+Taiwan,electricity,wind,wind_offshore,2025,capital,722,0.13
+Taiwan,electricity,wind,wind_offshore,2030,capital,606,0.13
+Taiwan,electricity,wind,wind_offshore,2035,capital,524,0.13
+Taiwan,electricity,wind,wind_offshore,2040,capital,466,0.13
+Taiwan,electricity,wind,wind_offshore,2045,capital,425,0.13
+Taiwan,electricity,wind,wind_offshore,2050,capital,396,0.13
+Taiwan,electricity,wind,wind_offshore,2055,capital,376,0.13
+Taiwan,electricity,wind,wind_offshore,2060,capital,361,0.13
+Taiwan,electricity,wind,wind_offshore,2065,capital,351,0.13
+Taiwan,electricity,wind,wind_offshore,2070,capital,343,0.13
+Taiwan,electricity,wind,wind_offshore,2075,capital,338,0.13
+Taiwan,electricity,wind,wind_offshore,2080,capital,335,0.13
+Taiwan,electricity,wind,wind_offshore,2085,capital,332,0.13
+Taiwan,electricity,wind,wind_offshore,2090,capital,330,0.13
+Taiwan,electricity,wind,wind_offshore,2095,capital,329,0.13
+Taiwan,electricity,wind,wind_offshore,2100,capital,328,0.13
+Taiwan,electricity,solar,PV,1975,capital,667,0.13
+Taiwan,electricity,solar,PV,1990,capital,667,0.13
+Taiwan,electricity,solar,PV,2005,capital,667,0.13
+Taiwan,electricity,solar,PV,2010,capital,667,0.13
+Taiwan,electricity,solar,PV,2015,capital,667,0.13
+Taiwan,electricity,solar,PV,2020,capital,402,0.13
+Taiwan,electricity,solar,PV,2025,capital,263,0.13
+Taiwan,electricity,solar,PV,2030,capital,189,0.13
+Taiwan,electricity,solar,PV,2035,capital,150,0.13
+Taiwan,electricity,solar,PV,2040,capital,130,0.13
+Taiwan,electricity,solar,PV,2045,capital,119,0.13
+Taiwan,electricity,solar,PV,2050,capital,113,0.13
+Taiwan,electricity,solar,PV,2055,capital,110,0.13
+Taiwan,electricity,solar,PV,2060,capital,108,0.13
+Taiwan,electricity,solar,PV,2065,capital,108,0.13
+Taiwan,electricity,solar,PV,2070,capital,107,0.13
+Taiwan,electricity,solar,PV,2075,capital,107,0.13
+Taiwan,electricity,solar,PV,2080,capital,107,0.13
+Taiwan,electricity,solar,PV,2085,capital,107,0.13
+Taiwan,electricity,solar,PV,2090,capital,107,0.13
+Taiwan,electricity,solar,PV,2095,capital,107,0.13
+Taiwan,electricity,solar,PV,2100,capital,107,0.13
+Argentina,electricity,wind,wind,1975,capital,451,0.13
+Argentina,electricity,wind,wind,1990,capital,451,0.13
+Argentina,electricity,wind,wind,2005,capital,451,0.13
+Argentina,electricity,wind,wind,2010,capital,451,0.13
+Argentina,electricity,wind,wind,2015,capital,451,0.13
+Argentina,electricity,wind,wind,2020,capital,387,0.13
+Argentina,electricity,wind,wind,2025,capital,341,0.13
+Argentina,electricity,wind,wind,2030,capital,306,0.13
+Argentina,electricity,wind,wind,2035,capital,281,0.13
+Argentina,electricity,wind,wind,2040,capital,263,0.13
+Argentina,electricity,wind,wind,2045,capital,249,0.13
+Argentina,electricity,wind,wind,2050,capital,239,0.13
+Argentina,electricity,wind,wind,2055,capital,232,0.13
+Argentina,electricity,wind,wind,2060,capital,227,0.13
+Argentina,electricity,wind,wind,2065,capital,223,0.13
+Argentina,electricity,wind,wind,2070,capital,220,0.13
+Argentina,electricity,wind,wind,2075,capital,218,0.13
+Argentina,electricity,wind,wind,2080,capital,216,0.13
+Argentina,electricity,wind,wind,2085,capital,215,0.13
+Argentina,electricity,wind,wind,2090,capital,214,0.13
+Argentina,electricity,wind,wind,2095,capital,214,0.13
+Argentina,electricity,wind,wind,2100,capital,213,0.13
+Argentina,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Argentina,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Argentina,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Argentina,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Argentina,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Argentina,electricity,wind,wind_offshore,2020,capital,886,0.13
+Argentina,electricity,wind,wind_offshore,2025,capital,722,0.13
+Argentina,electricity,wind,wind_offshore,2030,capital,606,0.13
+Argentina,electricity,wind,wind_offshore,2035,capital,524,0.13
+Argentina,electricity,wind,wind_offshore,2040,capital,466,0.13
+Argentina,electricity,wind,wind_offshore,2045,capital,425,0.13
+Argentina,electricity,wind,wind_offshore,2050,capital,396,0.13
+Argentina,electricity,wind,wind_offshore,2055,capital,376,0.13
+Argentina,electricity,wind,wind_offshore,2060,capital,361,0.13
+Argentina,electricity,wind,wind_offshore,2065,capital,351,0.13
+Argentina,electricity,wind,wind_offshore,2070,capital,343,0.13
+Argentina,electricity,wind,wind_offshore,2075,capital,338,0.13
+Argentina,electricity,wind,wind_offshore,2080,capital,335,0.13
+Argentina,electricity,wind,wind_offshore,2085,capital,332,0.13
+Argentina,electricity,wind,wind_offshore,2090,capital,330,0.13
+Argentina,electricity,wind,wind_offshore,2095,capital,329,0.13
+Argentina,electricity,wind,wind_offshore,2100,capital,328,0.13
+Argentina,electricity,solar,PV,1975,capital,667,0.13
+Argentina,electricity,solar,PV,1990,capital,667,0.13
+Argentina,electricity,solar,PV,2005,capital,667,0.13
+Argentina,electricity,solar,PV,2010,capital,667,0.13
+Argentina,electricity,solar,PV,2015,capital,667,0.13
+Argentina,electricity,solar,PV,2020,capital,402,0.13
+Argentina,electricity,solar,PV,2025,capital,263,0.13
+Argentina,electricity,solar,PV,2030,capital,189,0.13
+Argentina,electricity,solar,PV,2035,capital,150,0.13
+Argentina,electricity,solar,PV,2040,capital,130,0.13
+Argentina,electricity,solar,PV,2045,capital,119,0.13
+Argentina,electricity,solar,PV,2050,capital,113,0.13
+Argentina,electricity,solar,PV,2055,capital,110,0.13
+Argentina,electricity,solar,PV,2060,capital,108,0.13
+Argentina,electricity,solar,PV,2065,capital,108,0.13
+Argentina,electricity,solar,PV,2070,capital,107,0.13
+Argentina,electricity,solar,PV,2075,capital,107,0.13
+Argentina,electricity,solar,PV,2080,capital,107,0.13
+Argentina,electricity,solar,PV,2085,capital,107,0.13
+Argentina,electricity,solar,PV,2090,capital,107,0.13
+Argentina,electricity,solar,PV,2095,capital,107,0.13
+Argentina,electricity,solar,PV,2100,capital,107,0.13
+Colombia,electricity,wind,wind,1975,capital,451,0.13
+Colombia,electricity,wind,wind,1990,capital,451,0.13
+Colombia,electricity,wind,wind,2005,capital,451,0.13
+Colombia,electricity,wind,wind,2010,capital,451,0.13
+Colombia,electricity,wind,wind,2015,capital,451,0.13
+Colombia,electricity,wind,wind,2020,capital,387,0.13
+Colombia,electricity,wind,wind,2025,capital,341,0.13
+Colombia,electricity,wind,wind,2030,capital,306,0.13
+Colombia,electricity,wind,wind,2035,capital,281,0.13
+Colombia,electricity,wind,wind,2040,capital,263,0.13
+Colombia,electricity,wind,wind,2045,capital,249,0.13
+Colombia,electricity,wind,wind,2050,capital,239,0.13
+Colombia,electricity,wind,wind,2055,capital,232,0.13
+Colombia,electricity,wind,wind,2060,capital,227,0.13
+Colombia,electricity,wind,wind,2065,capital,223,0.13
+Colombia,electricity,wind,wind,2070,capital,220,0.13
+Colombia,electricity,wind,wind,2075,capital,218,0.13
+Colombia,electricity,wind,wind,2080,capital,216,0.13
+Colombia,electricity,wind,wind,2085,capital,215,0.13
+Colombia,electricity,wind,wind,2090,capital,214,0.13
+Colombia,electricity,wind,wind,2095,capital,214,0.13
+Colombia,electricity,wind,wind,2100,capital,213,0.13
+Colombia,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Colombia,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Colombia,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Colombia,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Colombia,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Colombia,electricity,wind,wind_offshore,2020,capital,886,0.13
+Colombia,electricity,wind,wind_offshore,2025,capital,722,0.13
+Colombia,electricity,wind,wind_offshore,2030,capital,606,0.13
+Colombia,electricity,wind,wind_offshore,2035,capital,524,0.13
+Colombia,electricity,wind,wind_offshore,2040,capital,466,0.13
+Colombia,electricity,wind,wind_offshore,2045,capital,425,0.13
+Colombia,electricity,wind,wind_offshore,2050,capital,396,0.13
+Colombia,electricity,wind,wind_offshore,2055,capital,376,0.13
+Colombia,electricity,wind,wind_offshore,2060,capital,361,0.13
+Colombia,electricity,wind,wind_offshore,2065,capital,351,0.13
+Colombia,electricity,wind,wind_offshore,2070,capital,343,0.13
+Colombia,electricity,wind,wind_offshore,2075,capital,338,0.13
+Colombia,electricity,wind,wind_offshore,2080,capital,335,0.13
+Colombia,electricity,wind,wind_offshore,2085,capital,332,0.13
+Colombia,electricity,wind,wind_offshore,2090,capital,330,0.13
+Colombia,electricity,wind,wind_offshore,2095,capital,329,0.13
+Colombia,electricity,wind,wind_offshore,2100,capital,328,0.13
+Colombia,electricity,solar,PV,1975,capital,667,0.13
+Colombia,electricity,solar,PV,1990,capital,667,0.13
+Colombia,electricity,solar,PV,2005,capital,667,0.13
+Colombia,electricity,solar,PV,2010,capital,667,0.13
+Colombia,electricity,solar,PV,2015,capital,667,0.13
+Colombia,electricity,solar,PV,2020,capital,402,0.13
+Colombia,electricity,solar,PV,2025,capital,263,0.13
+Colombia,electricity,solar,PV,2030,capital,189,0.13
+Colombia,electricity,solar,PV,2035,capital,150,0.13
+Colombia,electricity,solar,PV,2040,capital,130,0.13
+Colombia,electricity,solar,PV,2045,capital,119,0.13
+Colombia,electricity,solar,PV,2050,capital,113,0.13
+Colombia,electricity,solar,PV,2055,capital,110,0.13
+Colombia,electricity,solar,PV,2060,capital,108,0.13
+Colombia,electricity,solar,PV,2065,capital,108,0.13
+Colombia,electricity,solar,PV,2070,capital,107,0.13
+Colombia,electricity,solar,PV,2075,capital,107,0.13
+Colombia,electricity,solar,PV,2080,capital,107,0.13
+Colombia,electricity,solar,PV,2085,capital,107,0.13
+Colombia,electricity,solar,PV,2090,capital,107,0.13
+Colombia,electricity,solar,PV,2095,capital,107,0.13
+Colombia,electricity,solar,PV,2100,capital,107,0.13
+Uruguay,electricity,wind,wind,1975,capital,451,0.13
+Uruguay,electricity,wind,wind,1990,capital,451,0.13
+Uruguay,electricity,wind,wind,2005,capital,451,0.13
+Uruguay,electricity,wind,wind,2010,capital,451,0.13
+Uruguay,electricity,wind,wind,2015,capital,451,0.13
+Uruguay,electricity,wind,wind,2020,capital,387,0.13
+Uruguay,electricity,wind,wind,2025,capital,341,0.13
+Uruguay,electricity,wind,wind,2030,capital,306,0.13
+Uruguay,electricity,wind,wind,2035,capital,281,0.13
+Uruguay,electricity,wind,wind,2040,capital,263,0.13
+Uruguay,electricity,wind,wind,2045,capital,249,0.13
+Uruguay,electricity,wind,wind,2050,capital,239,0.13
+Uruguay,electricity,wind,wind,2055,capital,232,0.13
+Uruguay,electricity,wind,wind,2060,capital,227,0.13
+Uruguay,electricity,wind,wind,2065,capital,223,0.13
+Uruguay,electricity,wind,wind,2070,capital,220,0.13
+Uruguay,electricity,wind,wind,2075,capital,218,0.13
+Uruguay,electricity,wind,wind,2080,capital,216,0.13
+Uruguay,electricity,wind,wind,2085,capital,215,0.13
+Uruguay,electricity,wind,wind,2090,capital,214,0.13
+Uruguay,electricity,wind,wind,2095,capital,214,0.13
+Uruguay,electricity,wind,wind,2100,capital,213,0.13
+Uruguay,electricity,wind,wind_offshore,1975,capital,1118,0.13
+Uruguay,electricity,wind,wind_offshore,1990,capital,1118,0.13
+Uruguay,electricity,wind,wind_offshore,2005,capital,1118,0.13
+Uruguay,electricity,wind,wind_offshore,2010,capital,1118,0.13
+Uruguay,electricity,wind,wind_offshore,2015,capital,1118,0.13
+Uruguay,electricity,wind,wind_offshore,2020,capital,886,0.13
+Uruguay,electricity,wind,wind_offshore,2025,capital,722,0.13
+Uruguay,electricity,wind,wind_offshore,2030,capital,606,0.13
+Uruguay,electricity,wind,wind_offshore,2035,capital,524,0.13
+Uruguay,electricity,wind,wind_offshore,2040,capital,466,0.13
+Uruguay,electricity,wind,wind_offshore,2045,capital,425,0.13
+Uruguay,electricity,wind,wind_offshore,2050,capital,396,0.13
+Uruguay,electricity,wind,wind_offshore,2055,capital,376,0.13
+Uruguay,electricity,wind,wind_offshore,2060,capital,361,0.13
+Uruguay,electricity,wind,wind_offshore,2065,capital,351,0.13
+Uruguay,electricity,wind,wind_offshore,2070,capital,343,0.13
+Uruguay,electricity,wind,wind_offshore,2075,capital,338,0.13
+Uruguay,electricity,wind,wind_offshore,2080,capital,335,0.13
+Uruguay,electricity,wind,wind_offshore,2085,capital,332,0.13
+Uruguay,electricity,wind,wind_offshore,2090,capital,330,0.13
+Uruguay,electricity,wind,wind_offshore,2095,capital,329,0.13
+Uruguay,electricity,wind,wind_offshore,2100,capital,328,0.13
+Uruguay,electricity,solar,PV,1975,capital,667,0.13
+Uruguay,electricity,solar,PV,1990,capital,667,0.13
+Uruguay,electricity,solar,PV,2005,capital,667,0.13
+Uruguay,electricity,solar,PV,2010,capital,667,0.13
+Uruguay,electricity,solar,PV,2015,capital,667,0.13
+Uruguay,electricity,solar,PV,2020,capital,402,0.13
+Uruguay,electricity,solar,PV,2025,capital,263,0.13
+Uruguay,electricity,solar,PV,2030,capital,189,0.13
+Uruguay,electricity,solar,PV,2035,capital,150,0.13
+Uruguay,electricity,solar,PV,2040,capital,130,0.13
+Uruguay,electricity,solar,PV,2045,capital,119,0.13
+Uruguay,electricity,solar,PV,2050,capital,113,0.13
+Uruguay,electricity,solar,PV,2055,capital,110,0.13
+Uruguay,electricity,solar,PV,2060,capital,108,0.13
+Uruguay,electricity,solar,PV,2065,capital,108,0.13
+Uruguay,electricity,solar,PV,2070,capital,107,0.13
+Uruguay,electricity,solar,PV,2075,capital,107,0.13
+Uruguay,electricity,solar,PV,2080,capital,107,0.13
+Uruguay,electricity,solar,PV,2085,capital,107,0.13
+Uruguay,electricity,solar,PV,2090,capital,107,0.13
+Uruguay,electricity,solar,PV,2095,capital,107,0.13
+Uruguay,electricity,solar,PV,2100,capital,107,0.13
+USA,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+USA,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Africa_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Africa_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Africa_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Africa_Western,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Australia_NZ,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Brazil,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Canada,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Central America and Caribbean,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Central Asia,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+China,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+EU-12,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+EU-15,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Europe_Eastern,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Europe_Non_EU,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+European Free Trade Association,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+India,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Indonesia,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Japan,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Mexico,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Middle East,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Pakistan,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Russia,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+South Africa,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+South America_Northern,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+South America_Southern,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+South Asia,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+South Korea,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Southeast Asia,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Taiwan,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Argentina,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Colombia,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,1975,capital,1083,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,1990,capital,1083,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2005,capital,1083,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2010,capital,1083,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2015,capital,1083,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2020,capital,621,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2025,capital,391,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2030,capital,276,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2035,capital,219,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2040,capital,191,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2045,capital,177,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2050,capital,169,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2055,capital,166,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2060,capital,164,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2065,capital,163,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2070,capital,163,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2075,capital,163,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2080,capital,163,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2085,capital,162,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2090,capital,162,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2095,capital,162,0.1
+Uruguay,elect_td_bld,rooftop_pv,rooftop_pv,2100,capital,162,0.1

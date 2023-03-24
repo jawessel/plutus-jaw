@@ -1,0 +1,265 @@
+"scenario","region","subRegion","sources","param","units","class","x","value"
+"Local Data","Africa_Eastern","Africa_Eastern","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Eastern","Africa_Eastern","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Africa_Eastern","Africa_Eastern","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Eastern","Africa_Eastern","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Africa_Eastern","Africa_Eastern","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Eastern","Africa_Eastern","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Africa_Eastern","Africa_Eastern","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Eastern","Africa_Eastern","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Africa_Northern","Africa_Northern","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Northern","Africa_Northern","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Africa_Northern","Africa_Northern","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Northern","Africa_Northern","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Africa_Northern","Africa_Northern","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Northern","Africa_Northern","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Africa_Northern","Africa_Northern","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Northern","Africa_Northern","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Africa_Southern","Africa_Southern","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Southern","Africa_Southern","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Africa_Southern","Africa_Southern","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Southern","Africa_Southern","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Africa_Southern","Africa_Southern","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Southern","Africa_Southern","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Africa_Southern","Africa_Southern","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Southern","Africa_Southern","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Africa_Western","Africa_Western","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Western","Africa_Western","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Africa_Western","Africa_Western","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Western","Africa_Western","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Africa_Western","Africa_Western","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Western","Africa_Western","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Africa_Western","Africa_Western","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Africa_Western","Africa_Western","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Argentina","Argentina","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Argentina","Argentina","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Argentina","Argentina","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Argentina","Argentina","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Argentina","Argentina","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Argentina","Argentina","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Argentina","Argentina","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Argentina","Argentina","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Australia_NZ","Australia_NZ","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Australia_NZ","Australia_NZ","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Australia_NZ","Australia_NZ","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Australia_NZ","Australia_NZ","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Australia_NZ","Australia_NZ","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Australia_NZ","Australia_NZ","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Australia_NZ","Australia_NZ","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Australia_NZ","Australia_NZ","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Brazil","Brazil","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Brazil","Brazil","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Brazil","Brazil","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Brazil","Brazil","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Brazil","Brazil","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Brazil","Brazil","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Brazil","Brazil","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Brazil","Brazil","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Canada","Canada","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Canada","Canada","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Canada","Canada","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Canada","Canada","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Canada","Canada","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Canada","Canada","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Canada","Canada","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Canada","Canada","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Central America and Caribbean","Central America and Caribbean","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Central America and Caribbean","Central America and Caribbean","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Central America and Caribbean","Central America and Caribbean","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Central America and Caribbean","Central America and Caribbean","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Central America and Caribbean","Central America and Caribbean","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Central America and Caribbean","Central America and Caribbean","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Central America and Caribbean","Central America and Caribbean","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Central America and Caribbean","Central America and Caribbean","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Central Asia","Central Asia","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Central Asia","Central Asia","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Central Asia","Central Asia","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Central Asia","Central Asia","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Central Asia","Central Asia","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Central Asia","Central Asia","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Central Asia","Central Asia","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Central Asia","Central Asia","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","China","China","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","China","China","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","China","China","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","China","China","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","China","China","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","China","China","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","China","China","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","China","China","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Colombia","Colombia","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Colombia","Colombia","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Colombia","Colombia","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Colombia","Colombia","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Colombia","Colombia","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Colombia","Colombia","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Colombia","Colombia","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Colombia","Colombia","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","EU_12","EU_12","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","EU_12","EU_12","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","EU_12","EU_12","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","EU_12","EU_12","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","EU_12","EU_12","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","EU_12","EU_12","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","EU_12","EU_12","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","EU_12","EU_12","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","EU_15","EU_15","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","EU_15","EU_15","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","EU_15","EU_15","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","EU_15","EU_15","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","EU_15","EU_15","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","EU_15","EU_15","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","EU_15","EU_15","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","EU_15","EU_15","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Europe_Eastern","Europe_Eastern","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Europe_Eastern","Europe_Eastern","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Europe_Eastern","Europe_Eastern","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Europe_Eastern","Europe_Eastern","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Europe_Eastern","Europe_Eastern","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Europe_Eastern","Europe_Eastern","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Europe_Eastern","Europe_Eastern","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Europe_Eastern","Europe_Eastern","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Europe_Non_EU","Europe_Non_EU","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Europe_Non_EU","Europe_Non_EU","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Europe_Non_EU","Europe_Non_EU","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Europe_Non_EU","Europe_Non_EU","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Europe_Non_EU","Europe_Non_EU","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Europe_Non_EU","Europe_Non_EU","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Europe_Non_EU","Europe_Non_EU","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Europe_Non_EU","Europe_Non_EU","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","European Free Trade Association","European Free Trade Association","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","European Free Trade Association","European Free Trade Association","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","European Free Trade Association","European Free Trade Association","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","European Free Trade Association","European Free Trade Association","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","European Free Trade Association","European Free Trade Association","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","European Free Trade Association","European Free Trade Association","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","European Free Trade Association","European Free Trade Association","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","European Free Trade Association","European Free Trade Association","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","India","India","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","India","India","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","India","India","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","India","India","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","India","India","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","India","India","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","India","India","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","India","India","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Indonesia","Indonesia","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Indonesia","Indonesia","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Indonesia","Indonesia","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Indonesia","Indonesia","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Indonesia","Indonesia","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Indonesia","Indonesia","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Indonesia","Indonesia","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Indonesia","Indonesia","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Japan","Japan","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Japan","Japan","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Japan","Japan","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Japan","Japan","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Japan","Japan","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Japan","Japan","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Japan","Japan","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Japan","Japan","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Mexico","Mexico","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Mexico","Mexico","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Mexico","Mexico","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Mexico","Mexico","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Mexico","Mexico","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Mexico","Mexico","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Mexico","Mexico","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Mexico","Mexico","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Middle East","Middle East","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Middle East","Middle East","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Middle East","Middle East","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Middle East","Middle East","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Middle East","Middle East","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Middle East","Middle East","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Middle East","Middle East","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Middle East","Middle East","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Pakistan","Pakistan","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Pakistan","Pakistan","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Pakistan","Pakistan","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Pakistan","Pakistan","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Pakistan","Pakistan","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Pakistan","Pakistan","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Pakistan","Pakistan","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Pakistan","Pakistan","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Russia","Russia","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Russia","Russia","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Russia","Russia","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Russia","Russia","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Russia","Russia","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Russia","Russia","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Russia","Russia","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Russia","Russia","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","South Africa","South Africa","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South Africa","South Africa","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","South Africa","South Africa","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South Africa","South Africa","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","South Africa","South Africa","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South Africa","South Africa","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","South Africa","South Africa","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","South Africa","South Africa","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","South America_Northern","South America_Northern","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South America_Northern","South America_Northern","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","South America_Northern","South America_Northern","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South America_Northern","South America_Northern","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","South America_Northern","South America_Northern","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South America_Northern","South America_Northern","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","South America_Northern","South America_Northern","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","South America_Northern","South America_Northern","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","South America_Southern","South America_Southern","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South America_Southern","South America_Southern","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","South America_Southern","South America_Southern","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South America_Southern","South America_Southern","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","South America_Southern","South America_Southern","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South America_Southern","South America_Southern","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","South America_Southern","South America_Southern","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","South America_Southern","South America_Southern","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","South Asia","South Asia","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South Asia","South Asia","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","South Asia","South Asia","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South Asia","South Asia","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","South Asia","South Asia","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South Asia","South Asia","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","South Asia","South Asia","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","South Asia","South Asia","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","South Korea","South Korea","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South Korea","South Korea","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","South Korea","South Korea","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South Korea","South Korea","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","South Korea","South Korea","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","South Korea","South Korea","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","South Korea","South Korea","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","South Korea","South Korea","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Southeast Asia","Southeast Asia","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Southeast Asia","Southeast Asia","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Southeast Asia","Southeast Asia","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Southeast Asia","Southeast Asia","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Southeast Asia","Southeast Asia","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Southeast Asia","Southeast Asia","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Southeast Asia","Southeast Asia","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Southeast Asia","Southeast Asia","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Taiwan","Taiwan","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Taiwan","Taiwan","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Taiwan","Taiwan","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Taiwan","Taiwan","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Taiwan","Taiwan","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Taiwan","Taiwan","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Taiwan","Taiwan","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Taiwan","Taiwan","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","USA","USA","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","USA","USA","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","USA","USA","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","USA","USA","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","USA","USA","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","USA","USA","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","USA","USA","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","USA","USA","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Uruguay","Uruguay","Sources","elecAnnualRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Uruguay","Uruguay","Sources","elecAnnualRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Uruguay","Uruguay","Sources","elecCumCapCost","New Elec Cap Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Uruguay","Uruguay","Sources","elecCumCapGW","New Elec Cap (GW)","class2",2010,0
+"Local Data","Uruguay","Uruguay","Sources","elecCumRetPrematureCost","Premature Elec Retire Cost (billion 2015 USD)","class2",2010,0
+"Local Data","Uruguay","Uruguay","Sources","elecCumRetPrematureGW","Premature Elec Retire (GW)","class2",2010,0
+"Local Data","Uruguay","Uruguay","Sources","elecNewCapCost","New Elec Cap Cost (Billion 2015 USD)","class2",2010,0
+"Local Data","Uruguay","Uruguay","Sources","elecNewCapGW","New Elec Cap (GW)","class2",2010,0
