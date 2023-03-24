@@ -55,8 +55,8 @@ elecInvest <- function(elec_gen_vintage, gcamdataFile, world_regions, start_year
       gcamdataFile <- NULL
     }else{
       file_names <- c('A23.globaltech_retirement.csv',
-                      'L223.GlobalTechCapFac_elec.csv',
                       'L223.GlobalIntTechCapFac_elec.csv',
+                      'L223.GlobalTechCapFac_elec.csv',
                       'L223.StubTechCapFactor_elec.csv',
                       'L2233.GlobalIntTechCapital_elec.csv',
                       'L2233.GlobalIntTechCapital_elec_cool.csv',
@@ -73,8 +73,8 @@ elecInvest <- function(elec_gen_vintage, gcamdataFile, world_regions, start_year
         print('------------------------------------------------------------------')
         print(gsub('//', '/', paste(data_files)))
         A23.globaltech_retirement <- data.table::fread(data_files[1], skip=1)
-        capac_fac <- data.table::fread(data_files[2], skip=1, stringsAsFactors = FALSE)
-        capaC_fac_int <- data.table::fread(data_files[3], skip=1, stringsAsFactors = FALSE)
+        capac_fac <- data.table::fread(data_files[3], skip=1, stringsAsFactors = FALSE)
+        capac_fac_int <- data.table::fread(data_files[2], skip=1, stringsAsFactors = FALSE)
         capac_fac_region <- data.table::fread(data_files[4], skip=1, stringsAsFactors = FALSE)
         cap_cost_int_tech <- data.table::fread(data_files[5], skip=1, stringsAsFactors = FALSE)
         cap_cost_int_cool <- data.table::fread(data_files[6], skip=1, stringsAsFactors = FALSE)
@@ -130,11 +130,22 @@ elecInvest <- function(elec_gen_vintage, gcamdataFile, world_regions, start_year
   capac_fac %>% dplyr::select(-sector.name, -subsector.name) -> capac_fac_new
   elec_gen_tech_cost <- merge(elec_gen_tech_cost, capac_fac_new, by=c("technology", "year"), all=TRUE)
 
-  df_elec_gen <- data.frame(region = rep(x = world_regions, each = nrow(elec_gen_tech_cost)),
-                            technology = rep(x = elec_gen_tech_cost$technology, times = length(world_regions)),
-                            year = rep(x = elec_gen_tech_cost$year, times = length(world_regions)))
+  # df_elec_gen <- data.frame(region = rep(x = world_regions, each = nrow(elec_gen_tech_cost)),
+  #                           technology = rep(x = elec_gen_tech_cost$technology, times = length(world_regions)),
+  #                           year = rep(x = elec_gen_tech_cost$year, times = length(world_regions)))
+  # elec_gen_tech_cost_global <- df_elec_gen %>%
+  #   dplyr::left_join(elec_gen_tech_cost, by = c('technology', 'year')) %>%
+  #   dplyr::left_join(capac_fac_int,
+  #                    by = c('sector.name', 'subsector.name', 'technology' = 'intermittent.technology', 'year'),
+  #                    suffix = c('.global', '.global_int')) %>%
+  #   dplyr::mutate(capacity.factor = dplyr::if_else(!is.na(capacity.factor.global), capacity.factor.global, capacity.factor.global_int)) %>%
+  #   dplyr::mutate(capacity.factor = dplyr::if_else(technology == 'wind_offshore' & is.na(capacity.factor),
+  #                                          plutus::assumptions('wind_offshore_cap_fact'), capacity.factor)) %>%
+  #   dplyr::select(-capacity.factor.global, -capacity.factor.global_int)
+
+  elec_gen_tech_cost %>% dplyr::select(region, technology, year) -> df_elec_gen
   elec_gen_tech_cost_global <- df_elec_gen %>%
-    dplyr::left_join(elec_gen_tech_cost, by = c('technology', 'year')) %>%
+    dplyr::left_join(elec_gen_tech_cost, by = c('technology', 'year', 'region')) %>%
     dplyr::left_join(capac_fac_int,
                      by = c('sector.name', 'subsector.name', 'technology' = 'intermittent.technology', 'year'),
                      suffix = c('.global', '.global_int')) %>%
@@ -164,11 +175,15 @@ elecInvest <- function(elec_gen_vintage, gcamdataFile, world_regions, start_year
 
 
   cool_tech_cost_temp <- rbind(cap_cost_cool, cap_cost_int_cool)
-  df_cooling <- data.frame(region = rep(x = world_regions, each = nrow(cool_tech_cost_temp)),
-                           technology = rep(x = cool_tech_cost_temp$technology, times = length(world_regions)),
-                           year = rep(x = cool_tech_cost_temp$year, times = length(world_regions)))
+
+  # df_cooling <- data.frame(region = rep(x = world_regions, each = nrow(cool_tech_cost_temp)),
+  #                          technology = rep(x = cool_tech_cost_temp$technology, times = length(world_regions)),
+  #                          year = rep(x = cool_tech_cost_temp$year, times = length(world_regions)))
+
+  cool_tech_cost_temp %>% dplyr::select(region, technology, year) -> df_cooling
+
   cool_tech_cost <- df_cooling %>%
-    dplyr::left_join(cool_tech_cost_temp, by = c('technology', 'year'))
+    dplyr::left_join(cool_tech_cost_temp, by = c('technology', 'year','region'))
 
   # Add capital overnight cost from cooling technology to electricity generation technology
   cool_tech_cost <- cool_tech_cost %>%
